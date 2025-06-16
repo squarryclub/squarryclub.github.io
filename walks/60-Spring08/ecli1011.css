@@ -1,0 +1,1638 @@
+.mstheme{
+nav-banner-image:url(https://baltibugle.co.uk/walks/60-Spring08/aeclbanr.gif);
+separator-image:url(https://baltibugle.co.uk/walks/60-Spring08/aeclrule.gif);
+list-image-1:url(aeclbul1.gif);
+list-image-2:url(aeclbul2.gif);
+list-image-3:url(aeclbul3.gif);
+navbutton-horiz-pushed:url(https://baltibugle.co.uk/walks/60-Spring08/aeclhsel.gif);
+navbutton-horiz-normal:url(https://baltibugle.co.uk/walks/60-Spring08/aeclhbtn.gif);
+navbutton-horiz-hovered:url(https://baltibugle.co.uk/walks/60-Spring08/aeclhhov.gif);
+navbutton-vert-pushed:url(https://baltibugle.co.uk/walks/60-Spring08/aeclvsel.gif);
+navbutton-vert-normal:url(https://baltibugle.co.uk/walks/60-Spring08/aeclvbtn.gif);
+navbutton-vert-hovered:url(https://baltibugle.co.uk/walks/60-Spring08/aeclvhov.gif);
+navbutton-home-normal:url(https://baltibugle.co.uk/walks/60-Spring08/aeclhom.gif);
+navbutton-home-hovered:url(https://baltibugle.co.uk/walks/60-Spring08/aeclhomh.gif);
+navbutton-up-normal:url(https://baltibugle.co.uk/walks/60-Spring08/aeclup.gif);
+navbutton-up-hovered:url(https://baltibugle.co.uk/walks/60-Spring08/aecluph.gif);
+navbutton-prev-normal:url(https://baltibugle.co.uk/walks/60-Spring08/aeclbck.gif);
+navbutton-prev-hovered:url(https://baltibugle.co.uk/walks/60-Spring08/aeclbckh.gif);
+navbutton-next-normal:url(https://baltibugle.co.uk/walks/60-Spring08/aeclnxt.gif);
+navbutton-next-hovered:url(https://baltibugle.co.uk/walks/60-Spring08/aeclnxth.gif);
+}
+UL{
+list-style-image:url(aeclbul1.gif);
+}
+UL UL{
+list-style-image:url(aeclbul2.gif);
+}
+UL UL UL{
+list-style-image:url(aeclbul3.gif);
+}
+.mstheme-bannertxt{
+font-family:verdana,Arial,Helvetica;
+font-size:5;
+color:#000000;
+}
+.mstheme-horiz-navtxt{
+font-family:garamond,times new roman,times;
+font-size:2;
+color:#000000;
+}
+.mstheme-vert-navtxt{
+font-family:garamond,times new roman,times;
+font-size:2;
+color:#000000;
+}
+.mstheme-navtxthome{
+font-family:garamond,times new roman,times;
+font-size:1;
+color:#000000;
+}
+.mstheme-navtxtup{
+font-family:garamond,times new roman,times;
+font-size:1;
+color:#000000;
+}
+.mstheme-navtxtprev{
+font-family:garamond,times new roman,times;
+font-size:1;
+color:#000000;
+}
+.mstheme-navtxtnext{
+font-family:garamond,times new roman,times;
+font-size:1;
+color:#000000;
+}
+a:link{
+color:#339999;
+}
+a:visited{
+color:#999999;
+}
+a:active{
+color:#3366CC;
+}
+body{
+color:#000000;
+background-color:#FFFFFF;
+}
+h1{
+color:#000000;
+}
+h2,marquee{
+color:#000000;
+}
+h3{
+color:#000000;
+}
+h4{
+color:#000000;
+}
+h5{
+color:#000000;
+}
+h6{
+color:#000000;
+}
+LABEL,.MSTHEME-LABEL{
+color:#000000;
+}
+FIELDSET{
+border-color:#000000;
+color:#000000;
+}
+LEGEND{
+color:#000000;
+}
+SELECT{
+border-color:#CCCCCC;
+color:#000000;
+}
+TABLE{
+table-border-color-light:#CCCCCC;
+table-border-color-dark:#666666;
+border-color:#666666;
+color:transparent;
+}
+CAPTION{
+color:#000000;
+}
+TH{
+color:#000000;
+}
+HR{
+color:#000000;
+}
+TD{
+border-color:#000000;
+}
+.mstheme{
+navbutton-background-color:#FFFFFF;
+top-bar-button:url(https://baltibugle.co.uk/walks/60-Spring08/eclglobl.gif);
+}
+body{
+font-family:garamond,times new roman,times;
+background-image:url(eclbkgnd.gif);
+}
+IL{
+list-style-image:url(https://baltibugle.co.uk/walks/60-Spring08/eclbul2.gif);
+}
+table.ms-toolbar{
+background-image:url(https://baltibugle.co.uk/walks/60-Spring08/toolgrad.gif);
+border:1px solid #BBBBBB;
+}
+.UserDottedLine{
+margin-bottom:2px;
+height:1px;
+overflow:hidden;
+background-color:transparent;
+background-image:url(https://baltibugle.co.uk/walks/60-Spring08/dot.gif);
+background-repeat:repeat-x;
+}
+.UserToolbar{
+background-image:url(https://baltibugle.co.uk/walks/60-Spring08/toolgrad.gif);
+border:1px solid #BBBBBB;
+background-repeat:repeat-x;
+background-color:transparent;
+}
+.mstheme-topbar-font{
+font-family:garamond,times new roman,times;
+color:#000000;
+}
+h1{
+font-family:verdana,Arial,Helvetica;
+font-weight:bold;
+font-style:normal;
+}
+h2{
+font-family:verdana,Arial,Helvetica;
+font-weight:normal;
+font-style:normal;
+}
+h3{
+font-family:verdana,Arial,Helvetica;
+font-weight:normal;
+font-style:normal;
+}
+h4{
+font-family:verdana,Arial,Helvetica;
+font-weight:normal;
+font-style:normal;
+}
+h5{
+font-family:verdana,Arial,Helvetica;
+font-weight:normal;
+font-style:normal;
+}
+h6{
+font-family:verdana,Arial,Helvetica;
+font-weight:normal;
+font-style:normal;
+}
+BUTTON{
+border-style:solid;
+border-width:1pt;
+font-family:Arial,Helvetica,sans-serif;
+font-style:normal;
+}
+label, .MSTHEME-LABEL{
+font-family:garamond,times new roman,times;
+font-style:normal;
+}
+TEXTAREA{
+font-family:garamond,times new roman,times;
+font-style:normal
+}
+FIELDSET{
+border-style:solid;
+border-width:1pt;
+font-family:garamond,times new roman,times;
+font-style:normal;
+}
+LEGEND{
+font-family:garamond,times new roman,times;
+font-style:normal;
+}
+SELECT{
+border-style:solid;
+font-family:garamond,times new roman,times;
+font-style:normal
+}
+TABLE{
+font-family:garamond,times new roman,times;
+font-style:normal;
+}
+CAPTION{
+font-family:garamond,times new roman,times;
+font-style:normal;
+}
+TH{
+font-family:garamond,times new roman,times;
+font-style:bold;
+}
+MARQUEE{
+font-family:garamond,times new roman,times;
+}
+.ms-main{
+border-color:#339999;
+}
+.ms-bannerframe, .ms-GRHeaderBackground, .ms-storMeFree{
+background-image:url('');
+background-color:#336666;
+background-repeat:repeat-x;
+}
+.ms-banner{
+color:#339999;
+font-family:garamond,times new roman,times;
+}
+.ms-banner a:link{
+font-family:garamond,times new roman,times;
+color:#000000;
+font-weight:normal;
+text-decoration:none;
+}
+.ms-banner a:visited{
+font-family:garamond,times new roman,times;
+color:#000000;
+font-weight:normal;
+text-decoration:none;
+}
+.ms-nav td{
+font-family:garamond,times new roman,times;
+font-weight:normal;
+color:#000000;
+}
+.ms-navframe{
+border-color:#D5D5DF;
+}
+.ms-nav a{
+text-decoration:none;
+font-family:garamond,times new roman,times;
+font-weight:normal;
+color:#339999;
+}
+.ms-nav a:hover{
+text-decoration:underline;
+color:#9999FF;
+}
+.ms-nav a:visited{
+color:#339999;
+}
+.ms-viewselect a:link{
+font-family:garamond,times new roman,times;
+color:#339999;
+}
+.ms-titlearea{
+font-family:garamond,times new roman,times;
+color:#000000;
+}
+.ms-pagetitle{
+color:#000000;
+font-family:garamond,times new roman,times;
+font-weight:bold;
+}
+.ms-pagetitle a{
+text-decoration:underline;
+color:#339999;
+}
+.ms-pagetitle a:hover{
+text-decoration:underline;
+color:#9999FF;
+}
+.ms-announcementtitle{
+font-weight:bold;
+}
+.ms-formlabel{
+font-family:verdana;
+font-size:.7em;
+font-weight:normal;
+color:#464646;
+}
+.ms-formbody{
+font-family:garamond,times new roman,times;
+color:#000000;
+}
+.ms-formdescription{
+font-family:garamond,times new roman,times;
+color:#808080;
+}
+.ms-selected{
+background-color:#336666;
+color:#000000;
+}
+.ms-selected SPAN{
+color:#336666;
+}
+.ms-filedialog TD{
+height:16px;
+}
+.ms-descriptiontext{
+color:#000000;
+font-family:garamond,times new roman,times;
+}
+.ms-descriptiontext a{
+color:#339999;
+font-family:garamond,times new roman,times;
+}
+.ms-separator{
+color:#000000;
+}
+.ms-authoringcontrols{
+background-color:#D5D5DF;
+font-family:garamond,times new roman,times;
+color:#000000;
+}
+.ms-alternating{
+background-color:#D5D5DF;
+}
+.ms-back{
+vertical-align:top;
+padding-left:4;
+padding-right:4;
+padding-top:2;
+padding-bottom:4;
+background-color:#D5D5DF;
+}
+.ms-sectionheader{
+color:#000000;
+font-family:garamond,times new roman,times;
+font-weight:bold;
+}
+.ms-sectionline{
+background-color:#000000;
+}
+.ms-partline{
+background-color:#000000;
+}
+.ms-propertysheet{
+font-family:garamond,times new roman,times;
+}
+.ms-propertysheet th{
+font-family:garamond,times new roman,times;
+color:#000000;
+font-weight:bold;
+}
+.ms-propertysheet a{
+text-decoration:none;
+color:#339999;
+}
+.ms-propertysheet a:hover{
+text-decoration:underline;
+color:#9999FF;
+}
+.ms-propertysheet a:visited{
+text-decoration:none;
+color:#999999;
+}
+.ms-propertysheet a:visited:hover{
+text-decoration:underline;
+}
+.ms-itemheader a{
+font-family:garamond,times new roman,times;
+font-weight:bold;
+color:#000000;
+text-decoration:none;
+}
+.ms-itemheader a:hover{
+text-decoration:underline;
+color:#000000;
+}
+.ms-itemheader a:visited{
+text-decoration:none;
+color:#000000;
+}
+.ms-itemheader a:visited:hover{
+text-decoration:underline;
+}
+.ms-vh{
+font-family:garamond,times new roman,times;
+color:#339999;
+text-decoration:none;
+font-weight:normal;
+}
+.ms-vb{
+font-family:garamond,times new roman,times;
+color:#000000;
+height:18px;
+vertical-align:top;
+}
+.ms-homepagetitle{
+font-family:garamond,times new roman,times;
+color:#000000;
+font-weight:bold;
+text-decoration:none;
+}
+:hover.ms-homepagetitle{
+text-decoration:underline;
+color:#339999;
+}
+.ms-addnew{
+font-weight:normal;
+font-family:garamond,times new roman,times;
+color:#000000;
+text-decoration:none;
+}
+.ms-cal{
+border-collapse:collapse;
+table-layout:fixed;
+font-family:garamond,times new roman,times;
+cursor:default;
+}
+.ms-caltop{
+border-top:1px solid #000000;
+border-left:1px solid #000000;
+border-right:1px solid #000000;
+vertical-align:top;
+width:14%;
+height:30px;
+}
+.ms-calhead{
+border:none;
+text-align:center;
+background-color:#000000;
+color:#FFFFFF;
+font-family:garamond,times new roman,times;
+padding:2px;
+}
+.ms-caldow{
+border-top:1px solid #000000;
+border-left:1px solid #000000;
+border-right:1px solid #000000;
+vertical-align:top;
+text-align:center;
+font-weight:bold;
+color:#000000;
+height:20px;
+}
+.ms-calmid{
+border-left:1px solid #000000;
+border-right:1px solid #000000;
+height:20px;
+}
+.ms-calspacer{
+border-left:1px solid #000000;
+border-right:1px solid #000000;
+height:4px;
+}
+.ms-calbot{
+border-top:none;
+border-left:1px solid #000000;
+border-right:1px solid #000000;
+border-bottom:1px solid #000000;
+height:2px;
+}
+.ms-appt a{
+color:#339999;
+}
+.ms-appt a:hover{
+color:#9999FF;
+}
+.ms-appt{
+border:2px solid #000000;
+text-align:center;
+vertical-align:middle;
+height:18px;
+overflow:hidden;
+text-overflow:ellipsis;
+background-color:#336666;
+color:#000000;
+}
+.ms-caldowdown{
+font-family:garamond,times new roman,times;
+font-weight:bold;
+color:#000000;
+text-align:center;
+vertical-align:middle;
+}
+.ms-caldown{
+color:#000000;
+vertical-align:top;
+}
+.ms-datepickeriframe{
+position:absolute;
+display:none;
+background:#FFFFFF;
+}
+.ms-datepicker{
+font-family:Arial,Helvetica,sans-serif;
+background-color:#FFFFFF;
+color:#000000;
+border:2 outset activeborder;
+cursor:default;
+}
+.ms-dpdow{
+border:none;
+vertical-align:top;
+text-align:center;
+font-weight:bold;
+color:#000000;
+border-bottom:1px solid #000000;
+}
+.ms-dpday{
+border:none;
+text-align:center;
+cursor:hand;
+}
+.ms-dpselectedday{
+border:none;
+background-color:#D5D5DF;
+text-align:center;
+cursor:hand;
+}
+.ms-dpnonmonth{
+color:#BBBBBB;
+border:none;
+text-align:center;
+cursor:hand;
+}
+.ms-dphead{
+border:none;
+text-align:center;
+font-weight:bold;
+background-color:#ADADBD;
+color:#000000;
+}
+.ms-dpfoot{
+text-align:center;
+font-style:italic;
+border-top:1px solid;
+border-left:none;
+border-bottom:none;
+border-right:none;
+height:24px;
+}
+IMG.ms-button{
+cursor:hand;
+}
+.ms-toolbar, .ms-toolbar a:visited{
+font-family:garamond,times new roman,times;
+text-decoration:none;
+color:#339999;
+}
+.ms-stylebody{
+font-family:verdana;
+font-size:8pt;
+}
+.ms-styleheader a:link, .ms-stylebody a:link{
+color:#339999;
+text-decoration:none;
+}
+.ms-styleheader a:visited, .ms-stylebody a:visited{
+text-decoration:none
+}
+.ms-styleheader a:hover, .ms-stylebody a:hover{
+color:#ff3300;
+text-decoration:underline;
+}
+.ms-gridT1{
+font-family:garamond,times new roman,times;
+text-align:center;
+color:#BBBBBB;
+}
+select{
+font-family:garamond,times new roman,times;
+}
+hr{
+color:#000000;
+height:2px;
+}
+.ms-formdescription A{
+color:#339999;
+text-decoration:none;
+}
+.ms-formtable .ms-formbody{
+line-height:1.3em;
+}
+.ms-radiotext{
+cursor:default;
+text-align:left;
+font-family:verdana;
+font-size:10pt;
+height:19px;
+}
+.ms-gridtext{
+cursor:default;
+font-family:garamond,times new roman,times;
+height:19px;
+}
+.ms-formbody{
+font-family:garamond,times new roman,times;
+vertical-align:top;
+}
+table.ms-form th{
+color:#000000;
+font-family:garamond,times new roman,times;
+font-weight:normal;
+vertical-align:top;
+}
+table.ms-form td{
+width:100%;
+vertical-align:top;
+}
+.ms-formrecurrence{
+font-family:garamond,times new roman,times;
+font-weight:normal;
+vertical-align:top;
+}
+.ms-long{
+font-family:Arial,Helvetica,sans-serif;
+width:386px;
+}
+.ms-banner a:link{
+font-family:garamond,times new roman,times;
+color:#FFFFFF;
+font-weight:bold;
+text-decoration:none;
+}
+.ms-banner a:visited{
+font-family:garamond,times new roman,times;
+color:#FFFFFF;
+font-weight:bold;
+text-decoration:none;
+}
+.ms-nav td, .ms-nav .ms-SPZoneLabel, .ms-input{
+font-family:garamond,times new roman,times;
+}
+.ms-nav th{
+font-family:garamond,times new roman,times;
+font-weight:normal;
+color:#000000;
+}
+.ms-navheader a, .ms-navheader a:link, .ms-navheader a:visited{
+font-weight:bold;
+}
+.ms-navframe{
+background:#D5D5DF;
+}
+.ms-navline{
+border-bottom:1px solid #339999;
+}
+.ms-nav .ms-navwatermark{
+color:#E6E6EE;
+}
+.ms-selectednav{
+border:1px solid #000000;
+background:#FFFFFF;
+padding-top:1px;
+padding-bottom:2px;
+}
+.ms-unselectednav{
+border:1px solid #D5D5DF;
+padding-top:1px;
+padding-bottom:2px;
+}
+.ms-verticaldots{
+border-right:1px solid #000000;
+border-left:none;
+}
+.ms-nav a:link{
+}
+TD.ms-titleareaframe{
+color:#000000;
+border-color:#339999;
+}
+TABLE.ms-titleareaframe{
+border-left:0px;
+}
+Div.ms-titleareaframe{
+border-top:4px solid #339999;
+}
+.ms-searchform{
+background-color: #339999;
+}
+.ms-searchcorner{
+background-color:#339999;
+background-image:none;
+}
+.ms-titlearealine{
+background-color:#000000;
+}
+.ms-bodyareaframe{
+border-color:#339999;
+}
+.ms-pagetitle{
+font-family:garamond,times new roman,times;
+}
+.ms-pagetitle a{
+text-decoration:none;
+}
+.ms-pagetitle a:hover{
+text-decoration:underline;
+}
+.ms-pagecaption{
+color:#000000;
+font-family:garamond,times new roman,times;
+}
+.ms-selectedtitle{
+background-color:#D5D5DF;
+border:1px solid #CCCCCC;
+padding-top:1px;
+padding-bottom:2px;
+}
+.ms-unselectedtitle{
+margin:1px;
+padding-top:1px;
+padding-bottom:2px;
+}
+.ms-menuimagecell{
+background-color:#D5D5DF;
+cursor:hand;
+}
+.ms-filedialog td{
+height:16px;
+}
+.ms-alerttext{
+color:#DB6751;
+font-family:garamond,times new roman,times;
+}
+.ms-sectionheader a{
+color:#000000;
+text-decoration:none;
+}
+.ms-sectionheader a:hover{
+color:#000000;
+text-decoration:none;
+}
+.ms-sectionheader a:visited{
+color:#000000;
+text-decoration:none;
+}
+.ms-discussiontitle{
+font-family:garamond,times new roman,times;
+color:#000000;
+font-weight:bold;
+}
+.ms-vh2{
+font-family:garamond,times new roman,times;
+color:#339999;
+text-decoration:none;
+font-weight:normal;
+vertical-align:top;
+}
+.ms-vh-icon{
+font-family:garamond,times new roman,times;
+color:#339999;
+text-decoration:none;
+font-weight:normal;
+vertical-align:top;
+width:22px;
+}
+.ms-vh-icon-empty{
+font-family:garamond,times new roman,times;
+color:#339999;
+text-decoration:none;
+font-weight:normal;
+vertical-align:top;
+width:0px;
+}
+.ms-vh-left{
+font-family:garamond,times new roman,times;
+color:#339999;
+text-decoration:none;
+font-weight:normal;
+}
+.ms-vh-left-icon{
+font-family:garamond,times new roman,times;
+color:#339999;
+text-decoration:none;
+font-weight:normal;
+width:22px;
+}
+.ms-vh-left-icon-empty{
+font-family:garamond,times new roman,times;
+color:#339999;
+text-decoration:none;
+font-weight:normal;
+width:0px;
+}
+.ms-vh-right{
+font-family:garamond,times new roman,times;
+color:#339999;
+text-decoration:none;
+font-weight:normal;
+}
+.ms-vh-right-icon{
+font-family:garamond,times new roman,times;
+color:#339999;
+text-decoration:none;
+font-weight:normal;
+width:22px;
+}
+.ms-vh-right-icon-empty{
+font-family:garamond,times new roman,times;
+color:#339999;
+text-decoration:none;
+font-weight:normal;
+width:0px;
+}
+.ms-vh a, .ms-vh a:visited, .ms-vh2 a, .ms-vh2 a:visited, .ms-vh-left a, .ms-vh-right a{
+color:#339999;
+text-decoration:none;
+}
+.ms-vh a:hover, .ms-vh2 a:hover{
+text-decoration:underline;
+}
+.ms-vhImage{
+font-family:garamond,times new roman,times;
+color:#5A5A5A;
+text-decoration:none;
+font-weight:normal;
+vertical-align:top;
+width:18pt;
+}
+.ms-gb{
+font-family:garamond,times new roman,times;
+height:18px;
+color:#000000;
+background-color:#D5D5DF;
+font-weight:bold;
+}
+.ms-styleheader{
+font-family:verdana;
+font-size:0.68em;
+background-color:#D5D5DF;
+}
+.ms-vb, .ms-vb2, .ms-GRFont, .ms-vb-user{
+font-family:garamond,times new roman,times;
+vertical-align:top;
+}
+.ms-vb a, .ms-vb2 a, .ms-GRStatusText a, .ms-vb-user a{
+color:#339999;
+text-decoration:none;
+}
+.ms-vb a:hover, .ms-vb2 a:hover, .ms-vb-user a:hover{
+color:#9999FF;
+text-decoration:underline;
+}
+.ms-vb a:visited, .ms-vb2 a:visited, .ms-GRStatusText a:visited, .ms-vb-user a:visited{
+color:#339999;
+text-decoration:none;
+}
+.ms-vb a:visited:hover, .ms-vb2 a:visited:hover, .ms-vb-user a:visited:hover{
+color:#9999FF;
+text-decoration:underline;
+}
+.ms-vb2, .ms-vb-title, .ms-vb-icon, .ms-vb-user{
+border-top:1px solid #339999;
+}
+.ms-vb-icon{
+vertical-align:top;
+width:16px;
+padding-top:2px;
+padding-bottom:0px;
+}
+.ms-vb2{
+padding-top:3px;
+padding-bottom:0px;
+}
+.ms-addnew{
+font-weight:normal;
+font-family:garamond,times new roman,times;
+color:#339999;
+text-decoration:none;
+}
+.ms-error{
+font-family:garamond,times new roman,times;
+font-weight:normal;
+color:#db6751;
+}
+.ms-vcal{
+border-collapse:separate;
+table-layout:fixed;
+font-family:garamond,times new roman,times;
+cursor:default;
+}
+.ms-Dcal{
+border-collapse:collapse;
+border-left:1px solid #000000;
+border-right:1px solid #000000;
+table-layout:fixed;
+font-family:garamond,times new roman,times;
+cursor:default;
+}
+.ms-calDmidHour{
+border-color:#000000;
+height:20px;
+}
+.ms-calDmidHalfHour{
+border-color:#000000;
+height:20px;
+}
+.ms-calDmidQuarterHour{
+border:0px none;
+height:20px;
+}
+.ms-CalSpacer{
+border-left:1px solid #000000;
+border-right:1px solid #000000;
+height:4px;
+}
+.ms-CalDSpacer{
+border-left:1px solid #000000;
+border-right:1px solid #000000;
+height:4px;
+}
+.ms-CalVSpacer{
+background-color:#000000;
+width:0px;
+}
+.ms-CalAllDay{
+text-align:center;
+vertical-align:top;
+width:10%;
+height:12px;
+}
+.ms-firstCalHour{
+vertical-align:top;
+width:10%;
+height:12px;
+}
+.ms-calHour{
+border-top:1px solid #000000;
+vertical-align:top;
+width:10%;
+height:12px;
+}
+.ms-calHalfHour{
+border-top:1px solid #339999;
+vertical-align:top;
+height:12px;
+}
+.ms-calQuarterHour{
+border-top:0px none;
+vertical-align:top;
+height:12px;
+}
+.ms-Dappt{
+border:2px solid #000000;
+text-align:center;
+vertical-align:middle;
+height:18px;
+overflow:hidden;
+background-color:#336666;
+color:#000000;
+}
+.ms-Vappt{
+border-top:1px solid #666666;
+border-left:2px solid #666666;
+border-bottom:3px solid #666666;
+border-right:2px solid #666666;
+text-align:center;
+padding-left:3px;
+padding-right:3px;
+vertical-align:middle;
+height:12px;
+overflow:hidden;
+text-overflow:ellipsis;
+background-color:#E6E6EE;
+color:#000000;
+}
+.ms-Vapptsingle a, .ms-Vappt a{
+text-decoration:none;
+font-family:garamond,times new roman,times;
+font-weight:normal;
+color:#339999;
+overflow:hidden;
+text-overflow:ellipsis;
+}
+.ms-Vappt a:link{
+}
+.ms-Vappt a:hover{
+text-decoration:underline;
+color:#000000;
+}
+.ms-Vevt{
+padding:0px;
+text-align:center;
+vertical-align:top;
+font-family:garamond,times new roman,times;
+font-weight:normal;
+height:12px;
+overflow:hidden;
+text-overflow:ellipsis;
+color:#000000;
+}
+.ms-Vevt a{
+text-decoration:none;
+font-family:garamond,times new roman,times;
+font-weight:normal;
+color:#000000;
+}
+.ms-Vevt a:link{
+}
+.ms-Vevt a:hover{
+text-decoration:underline;
+color:#000000;
+}
+.ms-Vevt a:visited{
+color:#DFD664;
+}
+.ms-apptsingle{
+border-left:1px solid #000000;
+border-right:1px solid #000000;
+height:18px;
+vertical-align:middle;
+overflow:hidden;
+text-overflow:ellipsis;
+color:#000000;
+}
+.ms-Dapptsingle{
+border-left:1px solid #000000;
+border-right:1px solid #000000;
+height:18px;
+vertical-align:middle;
+overflow:hidden;
+color:#000000;
+}
+.ms-Vapptsingle{
+border:1px solid #000000;
+text-align:center;
+vertical-align:middle;
+overflow:hidden;
+text-overflow:ellipsis;
+color:#000000;
+background-color:#E6E6EE;
+}
+.ms-Vapptsingle a:link{
+}
+.ms-Vapptsingle a:hover{
+text-decoration:underline;
+}
+.ms-Vapptsingle a:visited{
+}
+.ms-dpnextprev{
+border:none;
+text-align:center;
+font-weight:bold;
+background-color:#ADADBD;
+color:#000000;
+cursor:hand;
+}
+.ms-discussionseparator{
+color:#339999;
+height:1px;
+}
+.ms-stylelabel{
+font-family:verdana;
+font-size:8pt;
+color:#339999;
+}
+.ms-stylebox{
+font-family:verdana;
+border:1px solid #339999;
+text-align:left
+}
+img.thumbnail{
+border:3px solid #ADADBD;
+}
+tr.ms-imglibselectedrow{
+background-color:#D5D5DF;
+}
+table.ms-imglibtitletable{
+border:0px solid #339999;
+}
+.ms-imglibthumbnail{
+background-color:#D5D5DF;
+border:solid #ADADBD 0px;
+}
+span.thumbnail{
+padding:16 10;
+position:relative;
+width:5px;
+}
+span.userdata{
+behavior:url(ecli1011.css);
+display:none;
+}
+.ms-imglibmenuhead{
+cursor:move;
+}
+.ms-imglibmenu{
+background-color:#D5D5DF;
+cursor:hand;
+font-family:garamond,times new roman,times;
+color:#339999;
+}
+.ms-imglibmenutext{
+cursor:move;
+font-weight:bold;
+color:#339999;
+}
+.ms-imglibmenuarea{
+background-color:#D5D5DF;
+}
+img.ms-imglibpreviewarea{
+border:solid #D5D5DF 3px;
+margin-top:3px;
+}
+a.ms-imglibPreviewTitle{
+overflow:hidden;
+text-overflow:ellipsis;
+width:130;
+}
+table.ms-imglibPreviewTable{
+display:none;
+}
+.UserShadedRegion{
+font-family:garamond,times new roman,times;
+background-color:#D5D5DF;
+}
+.UserCaption{
+font-family:garamond,times new roman,times;
+background-color:#D5D5DF;
+}
+.UserConfiguration{
+font-family:garamond,times new roman,times;
+background-color:#D5D5DF;
+}
+.UserButton, .UserInput, .UserSelect{
+font-family:garamond,times new roman,times;
+color:#000000;
+}
+.UserNotification{
+font-family:garamond,times new roman,times;
+padding:4px;
+COLOR:#BBBBBB;
+}
+.UserToolBarTextArea{
+padding-bottom:5px;
+font-weight:normal;
+font-family:garamond,times new roman,times;
+}
+.UserToolbarTextArea A:link{
+COLOR:#339999;
+TEXT-DECORATION:none;
+}
+.UserToolbarTextArea A:visited{
+COLOR:#339999;
+TEXT-DECORATION:none;
+}
+.UserToolbarTextArea A:hover{
+COLOR:#9999FF;
+TEXT-DECORATION:underline;
+}
+.UserToolbarDisabledLink{
+COLOR:#336666;
+font-family:garamond,times new roman,times;
+padding:4px;
+}
+.UserToolbarImage{
+border:medium none;
+cursor:hand;
+background-color:#BBBBBB;
+text-align:center;
+}
+.UserToolBarImageArea{
+padding-bottom:5px;
+font-weight:normal;
+font-family:garamond,times new roman,times;
+}
+.UserToolbarSelectedImage{
+border-right:medium none;
+border-top:medium none;
+border-left:medium none;
+border-bottom:#000000 1px solid;
+font-weight:bold;
+vertical-align:top;
+text-align:center;
+}
+.UserGenericHeader{
+font-weight:bold;
+color:#000000;
+font-family:garamond,times new roman,times;
+}
+.UserGeneric{
+padding:8px 5px 7px 5px;
+}
+.UserGenericText{
+color:#000000;
+}
+.UserGenericBody{
+padding:5px 0px 0px 17px;
+}
+.UserSectionTitle{
+font-weight:bold;
+width:100%;
+margin-bottom:5px;
+padding-bottom:2px;
+border-bottom:solid 1px #ADADBD;
+color:#000000;
+}
+.UserSectionHead{
+width:100%;
+padding:0px 0px 3px 0px;
+color:#000000;
+}
+.UserSectionFooter{
+color:#000000;
+border-top:solid 1px #ADADBD;
+}
+.UserSectionBody{
+width:100%;
+padding:0px 0px 0px 7px;
+}
+.UserControlGroup{
+padding-bottom:10px;
+padding-top:2px;
+}
+.UserFooter{
+width:100%;
+padding:10px 7px 7px 7px;
+}
+.UserCommandArea{
+padding-top:7px;
+}
+.UserCellSelected{
+font-family:garamond,times new roman,times;
+padding:1px 4px 2px 4px;
+background-color:#FFFFFF;
+border:solid 1px #000000;
+color:#000000;
+}
+.UserCell{
+font-family:garamond,times new roman,times;
+padding:2px 5px 3px 5px;
+color:#000000;
+}
+.UserGenericBulletItem{
+padding-bottom:2px;
+}
+.ms-ToolPaneFrame{
+padding:0px;
+background-color:#D5D5DF;
+}
+.ms-ToolPaneBody{
+padding-bottom:2px;
+padding-top:2px;
+}
+.ms-ToolPaneHeader{
+background-color:#ADADBD;
+border-style:none;
+}
+.ms-ToolPaneBorder{
+border-right:#D5D5DF 1px solid;
+border-top:solid none;
+border-bottom:solid none;
+border-left:#D5D5DF 1px solid;
+}
+.ms-ToolPaneClose{
+background-color:#ADADBD;
+}
+.ms-ToolPaneTitle{
+color:#000000;
+font-weight:bold;
+font-family:garamond,times new roman,times;
+padding-top:3px;
+padding-bottom:3px;
+background-color:#ADADBD;
+}
+.ms-ToolPaneFooter{
+background-color:#ADADBD;
+padding:5px;
+font-family:garamond,times new roman,times;
+color:#000000;
+}
+.ms-ToolPaneError{
+color:#db6751;
+font-family:garamond,times new roman,times;
+padding:2px;
+}
+.ms-ToolPaneInfo{
+padding-right:5px;
+padding-top:5px;
+padding-bottom:0px;
+padding-left:5px;
+color:#000000;
+font-family:garamond,times new roman,times;
+background-color:#D5D5DF;
+}
+.ms-ToolPartSpacing{
+padding-top:8px;
+}
+.ms-TPBorder{
+border:none;
+}
+.ms-TPHeader{
+background-color:#339999;
+}
+.ms-TPTitle{
+color:#F2DEB6;
+font-weight:bold;
+font-family:garamond,times new roman,times;
+padding-top:2px;
+padding-bottom:2px;
+}
+.ms-TPBody{
+color:#000000;
+font-family:garamond,times new roman,times;
+}
+.ms-TPBody a:link, .ms-TPBody a:visited, .ms-TPBody a:hover{
+color:#339999;
+text-decoration:none;
+cursor:hand;
+}
+.ms-TPCommands{
+}
+.ms-TPInput{
+color:#FFFFFF;
+font-family:garamond,times new roman,times;
+}
+.ms-CategoryTitle{
+font-family:garamond,times new roman,times;
+font-weight:bold;
+text-decoration:none;
+}
+.ms-PropGridBuilderButton{
+border:solid 1px #CCCCCC;
+width:16px;
+display:none;
+background-color:#ADADBD;
+}
+.ms-SPZone{
+border:#000000 1px solid;
+padding:5px;
+}
+.ms-SPZoneSelected{
+border:#9999FF 1px solid;
+padding:5px;
+}
+.ms-SPZoneIBar{
+border:#9999FF 3px solid;
+}
+.ms-SPZoneLabel{
+color:#000000;
+font-family:garamond,times new roman,times;
+padding:0;
+}
+.ms-SPError{
+color:#DB6751;
+font-family:garamond,times new roman,times;
+padding-right:2px;
+padding-top:2px;
+padding-bottom:2px;
+padding-left:2px;
+border-bottom:#D5D5DF 2px solid;
+}
+.ms-SPZoneCaption{
+color:#000000;
+font-family:garamond,times new roman,times;
+}
+.ms-WPDesign{
+background-color:#D5D5DF;
+}
+.ms-WPMenu{
+background-color:#D5D5DF;
+}
+.ms-WPTitle{
+font-weight:bold;
+font-family:garamond,times new roman,times;
+color:#000000;
+padding-top:2px;
+padding-bottom:2px;
+}
+.ms-WPTitle a:link, .ms-WPTitle a:visited{
+color:#000000;
+text-decoration:none;
+cursor:hand;
+}
+.ms-WPTitle A:hover{
+color:#B300B3;
+text-decoration:underline;
+cursor:hand;
+}
+.ms-WPSelected{
+border:#1CC8C8 3px dashed;
+}
+.ms-WPBody{
+font-family:garamond,times new roman,times;
+}
+.ms-WPBody table, .ms-TPBody table{
+}
+.ms-WPBody a:link, .ms-WPBody a:visited{
+color:#339999;
+text-decoration:none;
+}
+.ms-WPBody A:hover{
+color:#9999FF;
+text-decoration:underline;
+}
+.ms-WPBody th, .ms-TPBody th{
+font-weight:bold;
+}
+.ms-WPBody td{
+font-family:garamond,times new roman,times;
+}
+.ms-WPBody h1, .ms-TPBody h1{
+font-weight:bold;
+}
+.ms-WPBody h2, .ms-TPBody h2{
+font-weight:bold;
+}
+.ms-WPBody h3, .ms-TPBody h3{
+font-weight:bold;
+}
+.ms-WPBody h4, .ms-TPBody h4{
+font-weight:bold;
+}
+.ms-WPBody h5, .ms-TPBody h5{
+font-weight:bold;
+}
+.ms-WPBody h6, .ms-TPBody h6{
+font-weight:bold;
+}
+.ms-WPBorder{
+border-right:#339999 1px solid;
+border-left:#339999 1px solid;
+border-top-style:none;
+border-bottom:#339999 1px solid;
+}
+.ms-HoverCellActive{
+border:#339999 1px solid;
+background-color:#d0d0d0;
+}
+.ms-HoverCellActiveDark{
+border:solid 1px #339999;
+background-color:#D5D5DF;
+}
+.ms-SPLink{
+font-family:garamond,times new roman,times;
+color:#339999;
+}
+.ms-SPLink a:link, .ms-SPLink a:visited{
+color:#339999;
+text-decoration:none;
+}
+.ms-SPButton{
+font-family:garamond,times new roman,times;
+}
+.ms-PartSpacingVertical, .ms-PartSpacingHorizontal{
+padding-top:10px;
+}
+.ms-WPHeader{
+background-color:#D5D5DF;
+background-image:url('https://baltibugle.co.uk/walks/60-Spring08/blank.gif');
+background-repeat:repeat-x;
+}
+.ms-PageHeaderDate{
+color:#000000;
+font-family:garamond,times new roman,times;
+}
+.ms-PageHeaderGreeting{
+color:#000000;
+font-family:garamond,times new roman,times;
+}
+.ms-rtApplyBackground{
+background-color:#000000;
+border:0.02cm solid #CCCCCC;
+}
+.ms-rtRemoveBackground{
+background-color:transparent;
+border:0.02cm solid #FFFFFF;
+}
+.ms-rtToolbarDefaultStyle{
+font:normal 8pt garamond,times new roman,times;
+}
+.ms-subsmanageheader{
+background-color:#D5D5DF;
+font-family:garamond,times new roman,times;
+text-decoration:none;
+font-weight:bold;
+vertical-align:top;
+}
+.ms-subsmanagecell{
+color:#000000;
+font-family:garamond,times new roman,times;
+height:18px;
+vertical-align:top;
+}
+.ms-ConnError{
+color:#db6751;
+}
+.ms-storMeUsed{
+background-color:#33CCCC;
+}
+.ms-storMeFree{
+background-color:#996699;
+}
+.ms-storMeEstimated{
+background-color:#9999FF;
+}
+.ms-underline{
+vertical-align:top;
+border-bottom:1px solid #339999;
+padding-left:4;
+padding-right:4;
+padding-top:2;
+padding-bottom:4;
+}
+.ms-underlineback{
+vertical-align:top;
+border-bottom:1px solid #339999;
+padding-left:4;
+padding-right:4;
+padding-top:2;
+padding-bottom:4;
+background-color:#D5D5DF;
+}
+.ms-smallheader{
+font-weight:bold;
+color:#000000;
+font-family:garamond,times new roman,times;
+}
+.ms-smallsectionline{
+padding-left:0;
+padding-right:0;
+padding-top:2;
+padding-bottom:0;
+border-bottom:1px solid #339999;
+}
+.ms-tabselected{
+font-family:garamond,times new roman,times;
+background-color:#000000;
+border-right:#000000 2px solid;
+border-left:#000000 2px solid;
+border-top:#000000 2px solid;
+border-bottom:#000000 2px solid;
+font-weight:bold;
+padding-top:3px;
+padding-bottom:3px;
+padding-left:10px;
+padding-right:10px;
+color:#339999;
+}
+.ms-tabinactive{
+font-family:garamond,times new roman,times;
+background-color:#D5D5DF;
+border-right:#D5D5DF 2px solid;
+border-left:#D5D5DF 2px solid;
+border-top:#D5D5DF 2px solid;
+border-bottom:#D5D5DF 2px solid;
+padding-top:3px;
+padding-bottom:3px;
+padding-right:10px;
+padding-left:10px;
+color:#339999;
+}
+.ms-tabinactive a:link, .ms-tabinactive a:hover, .ms-tabinactive a:visited{
+color:#339999;
+text-decoration:none;
+}
+.ms-surveyVBarT{
+font-size:7pt;
+font-family:verdana;
+text-align:center;
+color:#BBBBBB;
+}
+.ms-surveyGVVBar{
+width:9px;
+background-color:#666666;
+border-top-color:#666666;
+border-top-style:solid;
+border-top-width:0px;
+border-bottom-color:#CCCCCC;
+border-bottom-style:solid;
+border-bottom-width:0px;
+}
+.ms-surveyGVVBarS{
+width:20px;
+}
+.ms-uploadborder{
+border:1px solid #336666;
+}
+.ms-uploadcontrol{
+background-color:#336666;
+}
+.ms-highlight{
+background-color:#336666;
+}
+.UserBackground{
+background-color:#FFFFFF;
+}
+.ms-MWSSelectedInstance{
+color:#000000;
+text-decoration:none;
+}
+.ms-MWSInstantiated a:link, .ms-MWSInstantiated a:visited{
+color:#339999;
+text-decoration:none;
+}
+.ms-MWSInstantiated a:hover{
+color:#9999FF;
+text-decoration:underline;
+}
+.ms-MWSUninstantiated a:link, .ms-MWSUninstantiated a:visited{
+color:#339999;
+text-decoration:none;
+}
+.ms-MWSUninstantiated a:hover{
+color:#339999;
+text-decoration:underline;
+}
+.ms-ToolStrip{
+color:#000000;
+background-color:#D5D5DF;
+border-left:#000000 1px solid;
+border-right:#000000 1px solid;
+border-top:#000000 1px solid;
+border-bottom:#000000 1px solid;
+}
