@@ -1,24 +1,24 @@
 .mstheme{
-nav-banner-image:url(https://baltibugle.co.uk/bugles/44-bbApril06/banner_sky.gif);
-separator-image:url(https://baltibugle.co.uk/bugles/44-bbApril06/rule_sky.gif);
+nav-banner-image:url(https://squarryclub.github.io/bugles/44-bbApril06/banner_sky.gif);
+separator-image:url(https://squarryclub.github.io/bugles/44-bbApril06/rule_sky.gif);
 list-image-1:url(bull1_sky.gif);
 list-image-2:url(bull2_sky.gif);
 list-image-3:url(bull3_sky.gif);
-navbutton-horiz-normal:url(https://baltibugle.co.uk/bugles/44-bbApril06/nav_hor_sky.gif);
-navbutton-horiz-hovered:url(https://baltibugle.co.uk/bugles/44-bbApril06/nav_hor_over_sky.gif);
-navbutton-horiz-pushed:url(https://baltibugle.co.uk/bugles/44-bbApril06/nav_hor_down_sky.gif);
-navbutton-vert-normal:url(https://baltibugle.co.uk/bugles/44-bbApril06/nav_vert_sky.gif);
-navbutton-vert-hovered:url(https://baltibugle.co.uk/bugles/44-bbApril06/nav_vert_over_sky.gif);
-navbutton-vert-pushed:url(https://baltibugle.co.uk/bugles/44-bbApril06/nav_vert_down_sky.gif);
-navbutton-home-normal:url(https://baltibugle.co.uk/bugles/44-bbApril06/nav_home_sky.gif);
-navbutton-home-hovered:url(https://baltibugle.co.uk/bugles/44-bbApril06/nav_home_over_sky.gif);
-navbutton-up-normal:url(https://baltibugle.co.uk/bugles/44-bbApril06/nav_up_sky.gif);
-navbutton-up-hovered:url(https://baltibugle.co.uk/bugles/44-bbApril06/nav_up_over_sky.gif);
-navbutton-prev-normal:url(https://baltibugle.co.uk/bugles/44-bbApril06/nav_prev_sky.gif);
-navbutton-prev-hovered:url(https://baltibugle.co.uk/bugles/44-bbApril06/nav_prev_over_sky.gif);
-navbutton-next-normal:url(https://baltibugle.co.uk/bugles/44-bbApril06/nav_next_sky.gif);
-navbutton-next-hovered:url(https://baltibugle.co.uk/bugles/44-bbApril06/nav_next_over_sky.gif);
-navbutton-next-pushed:url(https://baltibugle.co.uk/bugles/44-bbApril06/nav_next_down_sky.gif);
+navbutton-horiz-normal:url(https://squarryclub.github.io/bugles/44-bbApril06/nav_hor_sky.gif);
+navbutton-horiz-hovered:url(https://squarryclub.github.io/bugles/44-bbApril06/nav_hor_over_sky.gif);
+navbutton-horiz-pushed:url(https://squarryclub.github.io/bugles/44-bbApril06/nav_hor_down_sky.gif);
+navbutton-vert-normal:url(https://squarryclub.github.io/bugles/44-bbApril06/nav_vert_sky.gif);
+navbutton-vert-hovered:url(https://squarryclub.github.io/bugles/44-bbApril06/nav_vert_over_sky.gif);
+navbutton-vert-pushed:url(https://squarryclub.github.io/bugles/44-bbApril06/nav_vert_down_sky.gif);
+navbutton-home-normal:url(https://squarryclub.github.io/bugles/44-bbApril06/nav_home_sky.gif);
+navbutton-home-hovered:url(https://squarryclub.github.io/bugles/44-bbApril06/nav_home_over_sky.gif);
+navbutton-up-normal:url(https://squarryclub.github.io/bugles/44-bbApril06/nav_up_sky.gif);
+navbutton-up-hovered:url(https://squarryclub.github.io/bugles/44-bbApril06/nav_up_over_sky.gif);
+navbutton-prev-normal:url(https://squarryclub.github.io/bugles/44-bbApril06/nav_prev_sky.gif);
+navbutton-prev-hovered:url(https://squarryclub.github.io/bugles/44-bbApril06/nav_prev_over_sky.gif);
+navbutton-next-normal:url(https://squarryclub.github.io/bugles/44-bbApril06/nav_next_sky.gif);
+navbutton-next-hovered:url(https://squarryclub.github.io/bugles/44-bbApril06/nav_next_over_sky.gif);
+navbutton-next-pushed:url(https://squarryclub.github.io/bugles/44-bbApril06/nav_next_down_sky.gif);
 }
 UL{
 list-style-image:url(bull1_sky.gif);
@@ -129,7 +129,7 @@ border-color:#333333;
 }
 .mstheme{
 navbutton-background-color:#CFCFD7;
-top-bar-button:url(https://baltibugle.co.uk/bugles/44-bbApril06/top_bar_button_sky.gif);
+top-bar-button:url(https://squarryclub.github.io/bugles/44-bbApril06/top_bar_button_sky.gif);
 }
 .mstheme-topbar-font{
 font-family:Verdana,Arial,Helvetica,sans-serif;
@@ -569,7 +569,7 @@ color:#ff3300;
 text-decoration:underline;
 }
 table.ms-toolbar{
-background-image:url(https://baltibugle.co.uk/bugles/44-bbApril06/toolgrad_sky.gif);
+background-image:url(https://squarryclub.github.io/bugles/44-bbApril06/toolgrad_sky.gif);
 border:1px solid #1D2F49;
 background-color:#919EBE;
 }
@@ -1139,7 +1139,7 @@ margin-bottom:2px;
 height:1px;
 overflow:hidden;
 background-color:transparent;
-background-image:url(https://baltibugle.co.uk/bugles/44-bbApril06/dot_sky.gif);
+background-image:url(https://squarryclub.github.io/bugles/44-bbApril06/dot_sky.gif);
 background-repeat:repeat-x;
 }
 .UserButton, .UserInput, .UserSelect{
@@ -1240,7 +1240,7 @@ padding:10px 7px 7px 7px;
 padding-top:7px;
 }
 .UserToolbar{
-background-image:url(https://baltibugle.co.uk/bugles/44-bbApril06/toolgrad_sky.gif);
+background-image:url(https://squarryclub.github.io/bugles/44-bbApril06/toolgrad_sky.gif);
 border:1px solid #1D2F49;
 background-repeat:repeat-x;
 background-color:transparent;
@@ -1473,7 +1473,7 @@ padding-top:10px;
 }
 .ms-WPHeader{
 background-color:#BEC0CF;
-background-image:url('https://baltibugle.co.uk/bugles/44-bbApril06/partgrad.gif');
+background-image:url('https://squarryclub.github.io/bugles/44-bbApril06/partgrad.gif');
 background-repeat:repeat-x;
 }
 .ms-PageHeaderDate{

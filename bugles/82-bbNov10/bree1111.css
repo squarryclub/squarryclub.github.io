@@ -1,24 +1,24 @@
 .mstheme{
-nav-banner-image:url(https://baltibugle.co.uk/bugles/82-bbNov10/banner_breeze.gif);
-separator-image:url(https://baltibugle.co.uk/bugles/82-bbNov10/rule_breeze.gif);
+nav-banner-image:url(https://squarryclub.github.io/bugles/82-bbNov10/banner_breeze.gif);
+separator-image:url(https://squarryclub.github.io/bugles/82-bbNov10/rule_breeze.gif);
 list-image-1:url(bull1_breeze.gif);
 list-image-2:url(bull2_breeze.gif);
 list-image-3:url(bull3_breeze.gif);
-navbutton-horiz-normal:url(https://baltibugle.co.uk/bugles/82-bbNov10/nav_hor_breeze.gif);
-navbutton-horiz-hovered:url(https://baltibugle.co.uk/bugles/82-bbNov10/nav_hor_over_breeze.gif);
-navbutton-horiz-pushed:url(https://baltibugle.co.uk/bugles/82-bbNov10/nav_hor_down_breeze.gif);
-navbutton-vert-normal:url(https://baltibugle.co.uk/bugles/82-bbNov10/nav_vert_breeze.gif);
-navbutton-vert-hovered:url(https://baltibugle.co.uk/bugles/82-bbNov10/nav_vert_over_breeze.gif);
-navbutton-vert-pushed:url(https://baltibugle.co.uk/bugles/82-bbNov10/nav_vert_down_breeze.gif);
-navbutton-home-normal:url(https://baltibugle.co.uk/bugles/82-bbNov10/nav_home_breeze.gif);
-navbutton-home-hovered:url(https://baltibugle.co.uk/bugles/82-bbNov10/nav_home_over_breeze.gif);
-navbutton-up-normal:url(https://baltibugle.co.uk/bugles/82-bbNov10/nav_up_breeze.gif);
-navbutton-up-hovered:url(https://baltibugle.co.uk/bugles/82-bbNov10/nav_up_over_breeze.gif);
-navbutton-prev-normal:url(https://baltibugle.co.uk/bugles/82-bbNov10/nav_prev_breeze.gif);
-navbutton-prev-hovered:url(https://baltibugle.co.uk/bugles/82-bbNov10/nav_prev_over_breeze.gif);
-navbutton-next-normal:url(https://baltibugle.co.uk/bugles/82-bbNov10/nav_next_breeze.gif);
-navbutton-next-hovered:url(https://baltibugle.co.uk/bugles/82-bbNov10/nav_next_over_breeze.gif);
-navbutton-next-pushed:url(https://baltibugle.co.uk/bugles/82-bbNov10/nav_next_down_breeze.gif);
+navbutton-horiz-normal:url(https://squarryclub.github.io/bugles/82-bbNov10/nav_hor_breeze.gif);
+navbutton-horiz-hovered:url(https://squarryclub.github.io/bugles/82-bbNov10/nav_hor_over_breeze.gif);
+navbutton-horiz-pushed:url(https://squarryclub.github.io/bugles/82-bbNov10/nav_hor_down_breeze.gif);
+navbutton-vert-normal:url(https://squarryclub.github.io/bugles/82-bbNov10/nav_vert_breeze.gif);
+navbutton-vert-hovered:url(https://squarryclub.github.io/bugles/82-bbNov10/nav_vert_over_breeze.gif);
+navbutton-vert-pushed:url(https://squarryclub.github.io/bugles/82-bbNov10/nav_vert_down_breeze.gif);
+navbutton-home-normal:url(https://squarryclub.github.io/bugles/82-bbNov10/nav_home_breeze.gif);
+navbutton-home-hovered:url(https://squarryclub.github.io/bugles/82-bbNov10/nav_home_over_breeze.gif);
+navbutton-up-normal:url(https://squarryclub.github.io/bugles/82-bbNov10/nav_up_breeze.gif);
+navbutton-up-hovered:url(https://squarryclub.github.io/bugles/82-bbNov10/nav_up_over_breeze.gif);
+navbutton-prev-normal:url(https://squarryclub.github.io/bugles/82-bbNov10/nav_prev_breeze.gif);
+navbutton-prev-hovered:url(https://squarryclub.github.io/bugles/82-bbNov10/nav_prev_over_breeze.gif);
+navbutton-next-normal:url(https://squarryclub.github.io/bugles/82-bbNov10/nav_next_breeze.gif);
+navbutton-next-hovered:url(https://squarryclub.github.io/bugles/82-bbNov10/nav_next_over_breeze.gif);
+navbutton-next-pushed:url(https://squarryclub.github.io/bugles/82-bbNov10/nav_next_down_breeze.gif);
 }
 UL{
 list-style-image:url(bull1_breeze.gif);
@@ -131,7 +131,7 @@ border-color:#FFFFFF;
 }
 .mstheme{
 navbutton-background-color:#211443;
-top-bar-button:url(https://baltibugle.co.uk/bugles/82-bbNov10/top_bar_button_breeze.gif);
+top-bar-button:url(https://squarryclub.github.io/bugles/82-bbNov10/top_bar_button_breeze.gif);
 }
 .mstheme-topbar-font{
 font-family:Verdana,Arial,Helvetica,sans-serif;
@@ -571,7 +571,7 @@ color:#ff3300;
 text-decoration:underline;
 }
 table.ms-toolbar{
-background-image:url('https://baltibugle.co.uk/bugles/82-bbNov10/toolgrad_breeze.gif');
+background-image:url('https://squarryclub.github.io/bugles/82-bbNov10/toolgrad_breeze.gif');
 border:1px solid #383838
 background-color:#000000;
 }
@@ -1141,7 +1141,7 @@ margin-bottom:2px;
 height:1px;
 overflow:hidden;
 background-color:transparent;
-background-image:url('https://baltibugle.co.uk/bugles/82-bbNov10/dot_breeze.gif');
+background-image:url('https://squarryclub.github.io/bugles/82-bbNov10/dot_breeze.gif');
 background-repeat:repeat-x
 }
 .UserButton, .UserInput, .UserSelect{
@@ -1242,7 +1242,7 @@ padding:10px 7px 7px 7px;
 padding-top:7px;
 }
 .UserToolbar{
-background-image:url('https://baltibugle.co.uk/bugles/82-bbNov10/toolgrad_breeze.gif');
+background-image:url('https://squarryclub.github.io/bugles/82-bbNov10/toolgrad_breeze.gif');
 border:1px solid #383838;
 background-repeat:repeat-x;
 background-color:transparent
@@ -1475,7 +1475,7 @@ padding-top:10px;
 }
 .ms-WPHeader{
 background-color:#4E4577;
-background-image:url('https://baltibugle.co.uk/bugles/82-bbNov10/partgrad.gif');
+background-image:url('https://squarryclub.github.io/bugles/82-bbNov10/partgrad.gif');
 background-repeat:repeat-x;
 }
 .ms-PageHeaderDate{

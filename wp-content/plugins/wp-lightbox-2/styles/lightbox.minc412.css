@@ -14,13 +14,13 @@
 
 #jqlb_loading{
 	height:32px;
-	background-image:url('https://baltibugle.co.uk/wp-content/plugins/wp-lightbox-2/styles/images/loading.gif');
+	background-image:url('https://squarryclub.github.io/wp-content/plugins/wp-lightbox-2/styles/images/loading.gif');
 	background-repeat:no-repeat;				
 	background-position:center center; 		
 }	
 #jqlb_closelabel{
 	height:22px;
-	background-image:url('https://baltibugle.co.uk/wp-content/plugins/wp-lightbox-2/styles/images/closelabel.gif');
+	background-image:url('https://squarryclub.github.io/wp-content/plugins/wp-lightbox-2/styles/images/closelabel.gif');
 	background-repeat:no-repeat;				
 	background-position:center center;
 }	
@@ -62,13 +62,13 @@
 #prevLink, #nextLink{
 	width: 45%;
 	height: 100%;
-	background: transparent url('https://baltibugle.co.uk/wp-content/plugins/wp-lightbox-2/styles/images/blank.gif') no-repeat; /* Trick IE into showing hover */
+	background: transparent url('https://squarryclub.github.io/wp-content/plugins/wp-lightbox-2/styles/images/blank.gif') no-repeat; /* Trick IE into showing hover */
 	display: block;
 	}
 #prevLink { left: 0; float: left;}
 #nextLink { right: 0; float: right;}
-#prevLink:hover, #prevLink:visited:hover { background: url('https://baltibugle.co.uk/wp-content/plugins/wp-lightbox-2/styles/images/prev.gif') left 50% no-repeat; }
-#nextLink:hover, #nextLink:visited:hover { background: url('https://baltibugle.co.uk/wp-content/plugins/wp-lightbox-2/styles/images/next.gif') right 50% no-repeat; }
+#prevLink:hover, #prevLink:visited:hover { background: url('https://squarryclub.github.io/wp-content/plugins/wp-lightbox-2/styles/images/prev.gif') left 50% no-repeat; }
+#nextLink:hover, #nextLink:visited:hover { background: url('https://squarryclub.github.io/wp-content/plugins/wp-lightbox-2/styles/images/next.gif') right 50% no-repeat; }
 
 /*** START : next / previous text links ***/
 #nextLinkText, #prevLinkText{
