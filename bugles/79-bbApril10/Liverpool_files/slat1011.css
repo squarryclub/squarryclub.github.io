@@ -1,0 +1,1212 @@
+.mstheme {
+	nav-banner-image: url(https://baltibugle.co.uk/bugles/79-bbApril10/Liverpool_files/banner_slate.gif); separator-image: url(https://baltibugle.co.uk/bugles/79-bbApril10/Liverpool_files/rule_slate.gif); list-image-1: url(https://baltibugle.co.uk/bugles/79-bbApril10/Liverpool_files/bull1_slate.gif); list-image-2: url(https://baltibugle.co.uk/bugles/79-bbApril10/Liverpool_files/bull2_slate.gif); list-image-3: url(https://baltibugle.co.uk/bugles/79-bbApril10/Liverpool_files/bull3_slate.gif); navbutton-horiz-normal: url(https://baltibugle.co.uk/bugles/79-bbApril10/Liverpool_files/nav_hor_slate.gif); navbutton-horiz-hovered: url(https://baltibugle.co.uk/bugles/79-bbApril10/Liverpool_files/nav_hor_over_slate.gif); navbutton-horiz-pushed: url(https://baltibugle.co.uk/bugles/79-bbApril10/Liverpool_files/nav_hor_down_slate.gif); navbutton-vert-normal: url(https://baltibugle.co.uk/bugles/79-bbApril10/Liverpool_files/nav_vert_slate.gif); navbutton-vert-hovered: url(https://baltibugle.co.uk/bugles/79-bbApril10/Liverpool_files/nav_vert_over_slate.gif); navbutton-vert-pushed: url(https://baltibugle.co.uk/bugles/79-bbApril10/Liverpool_files/nav_vert_down_slate.gif); navbutton-home-normal: url(https://baltibugle.co.uk/bugles/79-bbApril10/Liverpool_files/nav_home_slate.gif); navbutton-home-hovered: url(https://baltibugle.co.uk/bugles/79-bbApril10/Liverpool_files/nav_home_over_slate.gif); navbutton-up-normal: url(https://baltibugle.co.uk/bugles/79-bbApril10/Liverpool_files/nav_up_slate.gif); navbutton-up-hovered: url(https://baltibugle.co.uk/bugles/79-bbApril10/Liverpool_files/nav_up_over_slate.gif); navbutton-prev-normal: url(https://baltibugle.co.uk/bugles/79-bbApril10/Liverpool_files/nav_prev_slate.gif); navbutton-prev-hovered: url(https://baltibugle.co.uk/bugles/79-bbApril10/Liverpool_files/nav_prev_over_slate.gif); navbutton-next-normal: url(https://baltibugle.co.uk/bugles/79-bbApril10/Liverpool_files/nav_next_slate.gif); navbutton-next-hovered: url(https://baltibugle.co.uk/bugles/79-bbApril10/Liverpool_files/nav_next_over_slate.gif); navbutton-next-pushed: url(https://baltibugle.co.uk/bugles/79-bbApril10/Liverpool_files/nav_next_down_slate.gif)
+}
+UL {
+	LIST-STYLE-IMAGE: url(https://baltibugle.co.uk/bugles/79-bbApril10/Liverpool_files/bull1_slate.gif)
+}
+UL UL {
+	LIST-STYLE-IMAGE: url(https://baltibugle.co.uk/bugles/79-bbApril10/Liverpool_files/bull2_slate.gif)
+}
+UL UL UL {
+	LIST-STYLE-IMAGE: url(https://baltibugle.co.uk/bugles/79-bbApril10/Liverpool_files/bull3_slate.gif)
+}
+.mstheme-bannertxt {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #ffffff; FONT-SIZE: 5px
+}
+.mstheme-horiz-navtxt {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #ffffff; FONT-SIZE: 2px
+}
+.mstheme-vert-navtxt {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #ffffff; FONT-SIZE: 2px
+}
+.mstheme-navtxthome {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #ffffff; FONT-SIZE: 1px
+}
+.mstheme-navtxtup {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #ffffff; FONT-SIZE: 1px
+}
+.mstheme-navtxtprev {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #ffffff; FONT-SIZE: 1px
+}
+.mstheme-navtxtnext {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #ffffff; FONT-SIZE: 1px
+}
+A:link {
+	COLOR: #b6b04d
+}
+A:visited {
+	COLOR: #707849
+}
+A:active {
+	COLOR: #e6e18e
+}
+BODY {
+	BACKGROUND-COLOR: #131313; COLOR: #ffffff
+}
+H1 {
+	COLOR: #ffffff
+}
+H2 {
+	COLOR: #ffffff
+}
+MARQUEE {
+	COLOR: #ffffff
+}
+H3 {
+	COLOR: #ffffff
+}
+H4 {
+	COLOR: #ffffff
+}
+H5 {
+	COLOR: #ffffff
+}
+H6 {
+	COLOR: #ffffff
+}
+LABEL {
+	COLOR: #ffffff
+}
+.MSTHEME-LABEL {
+	COLOR: #ffffff
+}
+FIELDSET {
+	BORDER-BOTTOM-COLOR: #494949; BORDER-TOP-COLOR: #494949; COLOR: #ffffff; BORDER-RIGHT-COLOR: #494949; BORDER-LEFT-COLOR: #494949
+}
+LEGEND {
+	COLOR: #ffffff
+}
+SELECT {
+	BORDER-BOTTOM-COLOR: #a3a3a3; BORDER-TOP-COLOR: #a3a3a3; COLOR: #000000; BORDER-RIGHT-COLOR: #a3a3a3; BORDER-LEFT-COLOR: #a3a3a3
+}
+TABLE {
+	BORDER-BOTTOM-COLOR: #848484; BORDER-TOP-COLOR: #848484; COLOR: #ffffff; BORDER-RIGHT-COLOR: #848484; BORDER-LEFT-COLOR: #848484; table-border-color-light: #989898; table-border-color-dark: #848484
+}
+CAPTION {
+	COLOR: #ffffff
+}
+TH {
+	COLOR: #ffffff
+}
+HR {
+	COLOR: #494949
+}
+TD {
+	BORDER-BOTTOM-COLOR: #848484; BORDER-TOP-COLOR: #848484; BORDER-RIGHT-COLOR: #848484; BORDER-LEFT-COLOR: #848484
+}
+.mstheme {
+	navbutton-background-color: #131313; top-bar-button: url(https://baltibugle.co.uk/bugles/79-bbApril10/Liverpool_files/top_bar_button_slate.gif)
+}
+.mstheme-topbar-font {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #ffffff
+}
+BODY {
+	BACKGROUND-IMAGE: url(https://baltibugle.co.uk/bugles/79-bbApril10/Liverpool_files/background_slate.gif); FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif
+}
+H1 {
+	FONT-STYLE: normal; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; FONT-WEIGHT: bold
+}
+H2 {
+	FONT-STYLE: normal; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; FONT-WEIGHT: normal
+}
+H3 {
+	FONT-STYLE: normal; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; FONT-WEIGHT: normal
+}
+H4 {
+	FONT-STYLE: normal; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; FONT-WEIGHT: normal
+}
+H5 {
+	FONT-STYLE: normal; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; FONT-WEIGHT: normal
+}
+H6 {
+	FONT-STYLE: normal; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; FONT-WEIGHT: normal
+}
+IL {
+	LIST-STYLE-IMAGE: url(https://baltibugle.co.uk/bugles/79-bbApril10/Liverpool_files/bull2_slate.gif)
+}
+BUTTON {
+	BORDER-BOTTOM: 1pt solid; BORDER-LEFT: 1pt solid; FONT-STYLE: normal; FONT-FAMILY: Arial,Helvetica,sans-serif; BORDER-TOP: 1pt solid; BORDER-RIGHT: 1pt solid
+}
+LABEL {
+	FONT-STYLE: normal; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif
+}
+.MSTHEME-LABEL {
+	FONT-STYLE: normal; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif
+}
+TEXTAREA {
+	FONT-STYLE: normal; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif
+}
+FIELDSET {
+	BORDER-BOTTOM: 1pt solid; BORDER-LEFT: 1pt solid; FONT-STYLE: normal; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; BORDER-TOP: 1pt solid; BORDER-RIGHT: 1pt solid
+}
+LEGEND {
+	FONT-STYLE: normal; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif
+}
+SELECT {
+	BORDER-BOTTOM-STYLE: solid; BORDER-RIGHT-STYLE: solid; FONT-STYLE: normal; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; BORDER-TOP-STYLE: solid; BORDER-LEFT-STYLE: solid
+}
+TABLE {
+	FONT-STYLE: normal; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif
+}
+CAPTION {
+	FONT-STYLE: normal; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif
+}
+TH {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif
+}
+MARQUEE {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif
+}
+.ms-main {
+	BORDER-BOTTOM-COLOR: #757575; BORDER-TOP-COLOR: #757575; BORDER-RIGHT-COLOR: #757575; BORDER-LEFT-COLOR: #757575
+}
+.ms-bannerframe {
+	BACKGROUND-IMAGE: none; BACKGROUND-COLOR: #000000; BACKGROUND-REPEAT: repeat-x
+}
+.ms-GRHeaderBackground {
+	BACKGROUND-IMAGE: none; BACKGROUND-COLOR: #000000; BACKGROUND-REPEAT: repeat-x
+}
+.ms-storMeFree {
+	BACKGROUND-IMAGE: none; BACKGROUND-COLOR: #000000; BACKGROUND-REPEAT: repeat-x
+}
+.ms-banner {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #757575
+}
+.ms-banner A:link {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #ffffff; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+.ms-banner A:visited {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #ffffff; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+.ms-nav TD {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #ffffff; FONT-WEIGHT: normal
+}
+.ms-navframe {
+	BORDER-BOTTOM-COLOR: #111111; BORDER-TOP-COLOR: #111111; BORDER-RIGHT-COLOR: #111111; BORDER-LEFT-COLOR: #111111
+}
+.ms-nav A {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #b6b04d; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+.ms-nav A:hover {
+	COLOR: #fec803; TEXT-DECORATION: underline
+}
+.ms-nav A:visited {
+	COLOR: #b6b04d
+}
+.ms-viewselect A:link {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #b6b04d
+}
+.ms-titlearea {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #ffffff
+}
+.ms-pagetitle {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #ffffff; FONT-WEIGHT: bold
+}
+.ms-pagetitle A {
+	COLOR: #b6b04d; TEXT-DECORATION: underline
+}
+.ms-pagetitle A:hover {
+	COLOR: #fec803; TEXT-DECORATION: underline
+}
+.ms-announcementtitle {
+	FONT-WEIGHT: bold
+}
+.ms-formlabel {
+	FONT-FAMILY: verdana; COLOR: #969696; FONT-SIZE: 0.7em; FONT-WEIGHT: normal
+}
+.ms-formbody {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #ffffff
+}
+.ms-formdescription {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #797979
+}
+.ms-selected {
+	BACKGROUND-COLOR: #797979; COLOR: #ffffff
+}
+.ms-selected SPAN {
+	COLOR: #797979
+}
+.ms-filedialog TD {
+	HEIGHT: 16px
+}
+.ms-descriptiontext {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #ffffff
+}
+.ms-descriptiontext A {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #b6b04d
+}
+.ms-separator {
+	COLOR: #ffffff
+}
+.ms-authoringcontrols {
+	BACKGROUND-COLOR: #111111; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #ffffff
+}
+.ms-alternating {
+	BACKGROUND-COLOR: #111111
+}
+.ms-back {
+	PADDING-BOTTOM: 4px; BACKGROUND-COLOR: #111111; PADDING-LEFT: 4px; PADDING-RIGHT: 4px; VERTICAL-ALIGN: top; PADDING-TOP: 2px
+}
+.ms-sectionheader {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #ffffff; FONT-WEIGHT: bold
+}
+.ms-sectionline {
+	BACKGROUND-COLOR: #343434
+}
+.ms-partline {
+	BACKGROUND-COLOR: #343434
+}
+.ms-propertysheet {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif
+}
+.ms-propertysheet TH {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #ffffff; FONT-WEIGHT: bold
+}
+.ms-propertysheet A {
+	COLOR: #b6b04d; TEXT-DECORATION: none
+}
+.ms-propertysheet A:hover {
+	COLOR: #fec803; TEXT-DECORATION: underline
+}
+.ms-propertysheet A:visited {
+	COLOR: #707849; TEXT-DECORATION: none
+}
+.ms-propertysheet A:hover:visited {
+	TEXT-DECORATION: underline
+}
+.ms-itemheader A {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #ffffff; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.ms-itemheader A:hover {
+	COLOR: #ffffff; TEXT-DECORATION: underline
+}
+.ms-itemheader A:visited {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.ms-itemheader A:hover:visited {
+	TEXT-DECORATION: underline
+}
+.ms-vh {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #b6b04d; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+.ms-vb {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; HEIGHT: 18px; COLOR: #ffffff; VERTICAL-ALIGN: top
+}
+.ms-homepagetitle {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #ffffff; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.ms-homepagetitle:hover {
+	COLOR: #b6b04d; TEXT-DECORATION: underline
+}
+.ms-addnew {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #ffffff; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+.ms-cal {
+	BORDER-COLLAPSE: collapse; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TABLE-LAYOUT: fixed; CURSOR: default
+}
+.ms-caltop {
+	BORDER-LEFT: #343434 1px solid; WIDTH: 14%; HEIGHT: 30px; VERTICAL-ALIGN: top; BORDER-TOP: #343434 1px solid; BORDER-RIGHT: #343434 1px solid
+}
+.ms-calhead {
+	BORDER-BOTTOM: medium none; TEXT-ALIGN: center; BORDER-LEFT: medium none; PADDING-BOTTOM: 2px; BACKGROUND-COLOR: #ffffff; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #131313; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 2px
+}
+.ms-caldow {
+	TEXT-ALIGN: center; BORDER-LEFT: #343434 1px solid; HEIGHT: 20px; COLOR: #ffffff; VERTICAL-ALIGN: top; BORDER-TOP: #343434 1px solid; FONT-WEIGHT: bold; BORDER-RIGHT: #343434 1px solid
+}
+.ms-calmid {
+	BORDER-LEFT: #343434 1px solid; HEIGHT: 20px; BORDER-RIGHT: #343434 1px solid
+}
+.ms-calspacer {
+	BORDER-LEFT: #343434 1px solid; HEIGHT: 4px; BORDER-RIGHT: #343434 1px solid
+}
+.ms-calbot {
+	BORDER-BOTTOM: #343434 1px solid; BORDER-LEFT: #343434 1px solid; HEIGHT: 2px; BORDER-TOP: medium none; BORDER-RIGHT: #343434 1px solid
+}
+.ms-appt A {
+	COLOR: #b6b04d
+}
+.ms-appt A:hover {
+	COLOR: #fec803
+}
+.ms-appt {
+	BORDER-BOTTOM: #343434 2px solid; TEXT-ALIGN: center; BORDER-LEFT: #343434 2px solid; BACKGROUND-COLOR: #797979; TEXT-OVERFLOW: ellipsis; HEIGHT: 18px; COLOR: #ffffff; VERTICAL-ALIGN: middle; OVERFLOW: hidden; BORDER-TOP: #343434 2px solid; BORDER-RIGHT: #343434 2px solid
+}
+.ms-caldowdown {
+	TEXT-ALIGN: center; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #ffffff; VERTICAL-ALIGN: middle; FONT-WEIGHT: bold
+}
+.ms-caldown {
+	COLOR: #ffffff; VERTICAL-ALIGN: top
+}
+.ms-datepickeriframe {
+	POSITION: absolute; DISPLAY: none; BACKGROUND: #ffffff
+}
+.ms-datepicker {
+	BORDER-BOTTOM: activeborder 2px outset; BORDER-LEFT: activeborder 2px outset; BACKGROUND-COLOR: #131313; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #ffffff; BORDER-TOP: activeborder 2px outset; CURSOR: default; BORDER-RIGHT: activeborder 2px outset
+}
+.ms-dpdow {
+	BORDER-BOTTOM: #343434 1px solid; TEXT-ALIGN: center; BORDER-LEFT: medium none; COLOR: #ffffff; VERTICAL-ALIGN: top; BORDER-TOP: medium none; FONT-WEIGHT: bold; BORDER-RIGHT: medium none
+}
+.ms-dpday {
+	BORDER-BOTTOM: medium none; TEXT-ALIGN: center; BORDER-LEFT: medium none; BORDER-TOP: medium none; CURSOR: hand; BORDER-RIGHT: medium none
+}
+.ms-dpselectedday {
+	BORDER-BOTTOM: medium none; TEXT-ALIGN: center; BORDER-LEFT: medium none; BACKGROUND-COLOR: #111111; BORDER-TOP: medium none; CURSOR: hand; BORDER-RIGHT: medium none
+}
+.ms-dpnonmonth {
+	BORDER-BOTTOM: medium none; TEXT-ALIGN: center; BORDER-LEFT: medium none; COLOR: #575757; BORDER-TOP: medium none; CURSOR: hand; BORDER-RIGHT: medium none
+}
+.ms-dphead {
+	BORDER-BOTTOM: medium none; TEXT-ALIGN: center; BORDER-LEFT: medium none; BACKGROUND-COLOR: #9c9a9c; COLOR: #ffffff; BORDER-TOP: medium none; FONT-WEIGHT: bold; BORDER-RIGHT: medium none
+}
+.ms-dpfoot {
+	BORDER-BOTTOM: medium none; TEXT-ALIGN: center; BORDER-LEFT: medium none; FONT-STYLE: italic; HEIGHT: 24px; BORDER-TOP: 1px solid; BORDER-RIGHT: medium none
+}
+IMG.ms-button {
+	CURSOR: hand
+}
+.ms-toolbar {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #b6b04d; TEXT-DECORATION: none
+}
+.ms-toolbar A:visited {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #b6b04d; TEXT-DECORATION: none
+}
+.ms-stylebody {
+	FONT-FAMILY: verdana; FONT-SIZE: 8pt
+}
+.ms-styleheader A:link {
+	COLOR: #b6b04d; TEXT-DECORATION: none
+}
+.ms-stylebody A:link {
+	COLOR: #b6b04d; TEXT-DECORATION: none
+}
+.ms-styleheader A:visited {
+	TEXT-DECORATION: none
+}
+.ms-stylebody A:visited {
+	TEXT-DECORATION: none
+}
+.ms-styleheader A:hover {
+	COLOR: #ff3300; TEXT-DECORATION: underline
+}
+.ms-stylebody A:hover {
+	COLOR: #ff3300; TEXT-DECORATION: underline
+}
+TABLE.ms-toolbar {
+	BACKGROUND-IMAGE: url(https://baltibugle.co.uk/bugles/79-bbApril10/Liverpool_files/toolgrad_slate.gif); BORDER-BOTTOM: #575757 1px solid; BORDER-LEFT: #575757 1px solid; BACKGROUND-COLOR: #757575; BORDER-TOP: #575757 1px solid; BORDER-RIGHT: #575757 1px solid
+}
+.ms-gridT1 {
+	TEXT-ALIGN: center; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #969696
+}
+SELECT {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif
+}
+HR {
+	HEIGHT: 2px; COLOR: #494949
+}
+.ms-formdescription A {
+	COLOR: #b6b04d; TEXT-DECORATION: none
+}
+.ms-formtable .ms-formbody {
+	LINE-HEIGHT: 1.3em
+}
+.ms-radiotext {
+	TEXT-ALIGN: left; FONT-FAMILY: verdana; HEIGHT: 19px; FONT-SIZE: 10pt; CURSOR: default
+}
+.ms-gridtext {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; HEIGHT: 19px; CURSOR: default
+}
+.ms-formbody {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; VERTICAL-ALIGN: top
+}
+TABLE.ms-form TH {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #ffffff; VERTICAL-ALIGN: top; FONT-WEIGHT: normal
+}
+TABLE.ms-form TD {
+	WIDTH: 100%; VERTICAL-ALIGN: top
+}
+.ms-formrecurrence {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; VERTICAL-ALIGN: top; FONT-WEIGHT: normal
+}
+.ms-long {
+	WIDTH: 386px; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif
+}
+.ms-banner A:link {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #ffffff; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.ms-banner A:visited {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #ffffff; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.ms-nav TD {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif
+}
+.ms-nav .ms-SPZoneLabel {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif
+}
+.ms-input {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif
+}
+.ms-nav TH {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #ffffff; FONT-WEIGHT: normal
+}
+.ms-navheader A {
+	FONT-WEIGHT: bold
+}
+.ms-navheader A:link {
+	FONT-WEIGHT: bold
+}
+.ms-navheader A:visited {
+	FONT-WEIGHT: bold
+}
+.ms-navframe {
+	BACKGROUND: #4b4b4b
+}
+.ms-navline {
+	BORDER-BOTTOM: #343434 1px solid
+}
+.ms-nav .ms-navwatermark {
+	COLOR: #404040
+}
+.ms-selectednav {
+	BORDER-BOTTOM: #ffffff 1px solid; BORDER-LEFT: #ffffff 1px solid; PADDING-BOTTOM: 2px; BACKGROUND: #131313; BORDER-TOP: #ffffff 1px solid; BORDER-RIGHT: #ffffff 1px solid; PADDING-TOP: 1px
+}
+.ms-unselectednav {
+	BORDER-BOTTOM: #4b4b4b 1px solid; BORDER-LEFT: #4b4b4b 1px solid; PADDING-BOTTOM: 2px; BORDER-TOP: #4b4b4b 1px solid; BORDER-RIGHT: #4b4b4b 1px solid; PADDING-TOP: 1px
+}
+.ms-verticaldots {
+	BORDER-LEFT: medium none; BORDER-RIGHT: #343434 1px solid
+}
+.ms-nav A:link {
+	
+}
+TD.ms-titleareaframe {
+	BORDER-BOTTOM-COLOR: #757575; BORDER-TOP-COLOR: #757575; COLOR: #000000; BORDER-RIGHT-COLOR: #757575; BORDER-LEFT-COLOR: #757575
+}
+TABLE.ms-titleareaframe {
+	BORDER-LEFT: 0px
+}
+DIV.ms-titleareaframe {
+	BORDER-TOP: #757575 4px solid
+}
+.ms-searchform {
+	BACKGROUND-COLOR: #757575
+}
+.ms-searchcorner {
+	BACKGROUND-IMAGE: none; BACKGROUND-COLOR: #757575
+}
+.ms-titlearealine {
+	BACKGROUND-COLOR: #343434
+}
+.ms-bodyareaframe {
+	BORDER-BOTTOM-COLOR: #757575; BORDER-TOP-COLOR: #757575; BORDER-RIGHT-COLOR: #757575; BORDER-LEFT-COLOR: #757575
+}
+.ms-pagetitle {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif
+}
+.ms-pagetitle A {
+	TEXT-DECORATION: none
+}
+.ms-pagetitle A:hover {
+	TEXT-DECORATION: underline
+}
+.ms-pagecaption {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #ffffff
+}
+.ms-selectedtitle {
+	BORDER-BOTTOM: #a3a3a3 1px solid; BORDER-LEFT: #a3a3a3 1px solid; PADDING-BOTTOM: 2px; BACKGROUND-COLOR: #111111; BORDER-TOP: #a3a3a3 1px solid; BORDER-RIGHT: #a3a3a3 1px solid; PADDING-TOP: 1px
+}
+.ms-unselectedtitle {
+	PADDING-BOTTOM: 2px; MARGIN: 1px; PADDING-TOP: 1px
+}
+.ms-menuimagecell {
+	BACKGROUND-COLOR: #a3a3a3; CURSOR: hand
+}
+.ms-filedialog TD {
+	HEIGHT: 16px
+}
+.ms-alerttext {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #db6751
+}
+.ms-sectionheader A {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.ms-sectionheader A:hover {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.ms-sectionheader A:visited {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.ms-discussiontitle {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #ffffff; FONT-WEIGHT: bold
+}
+.ms-vh2 {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #b6b04d; VERTICAL-ALIGN: top; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+.ms-vh-icon {
+	WIDTH: 22px; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #b6b04d; VERTICAL-ALIGN: top; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+.ms-vh-icon-empty {
+	WIDTH: 0px; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #b6b04d; VERTICAL-ALIGN: top; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+.ms-vh-left {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #b6b04d; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+.ms-vh-left-icon {
+	WIDTH: 22px; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #b6b04d; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+.ms-vh-left-icon-empty {
+	WIDTH: 0px; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #b6b04d; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+.ms-vh-right {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #b6b04d; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+.ms-vh-right-icon {
+	WIDTH: 22px; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #b6b04d; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+.ms-vh-right-icon-empty {
+	WIDTH: 0px; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #b6b04d; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+.ms-vh A {
+	COLOR: #b6b04d; TEXT-DECORATION: none
+}
+.ms-vh A:visited {
+	COLOR: #b6b04d; TEXT-DECORATION: none
+}
+.ms-vh2 A {
+	COLOR: #b6b04d; TEXT-DECORATION: none
+}
+.ms-vh2 A:visited {
+	COLOR: #b6b04d; TEXT-DECORATION: none
+}
+.ms-vh-left A {
+	COLOR: #b6b04d; TEXT-DECORATION: none
+}
+.ms-vh-right A {
+	COLOR: #b6b04d; TEXT-DECORATION: none
+}
+.ms-vh A:hover {
+	TEXT-DECORATION: underline
+}
+.ms-vh2 A:hover {
+	TEXT-DECORATION: underline
+}
+.ms-vhImage {
+	WIDTH: 18pt; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #ababab; VERTICAL-ALIGN: top; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+.ms-gb {
+	BACKGROUND-COLOR: #111111; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; HEIGHT: 18px; COLOR: #ffffff; FONT-WEIGHT: bold
+}
+.ms-styleheader {
+	BACKGROUND-COLOR: #111111; FONT-FAMILY: verdana; FONT-SIZE: 0.68em
+}
+.ms-vb {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; VERTICAL-ALIGN: top
+}
+.ms-vb2 {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; VERTICAL-ALIGN: top
+}
+.ms-GRFont {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; VERTICAL-ALIGN: top
+}
+.ms-vb-user {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; VERTICAL-ALIGN: top
+}
+.ms-vb A {
+	COLOR: #b6b04d; TEXT-DECORATION: none
+}
+.ms-vb2 A {
+	COLOR: #b6b04d; TEXT-DECORATION: none
+}
+.ms-GRStatusText A {
+	COLOR: #b6b04d; TEXT-DECORATION: none
+}
+.ms-vb-user A {
+	COLOR: #b6b04d; TEXT-DECORATION: none
+}
+.ms-vb A:hover {
+	COLOR: #fec803; TEXT-DECORATION: underline
+}
+.ms-vb2 A:hover {
+	COLOR: #fec803; TEXT-DECORATION: underline
+}
+.ms-vb-user A:hover {
+	COLOR: #fec803; TEXT-DECORATION: underline
+}
+.ms-vb A:visited {
+	COLOR: #b6b04d; TEXT-DECORATION: none
+}
+.ms-vb2 A:visited {
+	COLOR: #b6b04d; TEXT-DECORATION: none
+}
+.ms-GRStatusText A:visited {
+	COLOR: #b6b04d; TEXT-DECORATION: none
+}
+.ms-vb-user A:visited {
+	COLOR: #b6b04d; TEXT-DECORATION: none
+}
+.ms-vb A:hover:visited {
+	COLOR: #fec803; TEXT-DECORATION: underline
+}
+.ms-vb2 A:hover:visited {
+	COLOR: #fec803; TEXT-DECORATION: underline
+}
+.ms-vb-user A:hover:visited {
+	COLOR: #fec803; TEXT-DECORATION: underline
+}
+.ms-vb2 {
+	BORDER-TOP: #757575 1px solid
+}
+.ms-vb-title {
+	BORDER-TOP: #757575 1px solid
+}
+.ms-vb-icon {
+	BORDER-TOP: #757575 1px solid
+}
+.ms-vb-user {
+	BORDER-TOP: #757575 1px solid
+}
+.ms-vb-icon {
+	PADDING-BOTTOM: 0px; WIDTH: 16px; VERTICAL-ALIGN: top; PADDING-TOP: 2px
+}
+.ms-vb2 {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 3px
+}
+.ms-addnew {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #b6b04d; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+.ms-error {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #ff0000; FONT-WEIGHT: normal
+}
+.ms-vcal {
+	BORDER-COLLAPSE: separate; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TABLE-LAYOUT: fixed; CURSOR: default
+}
+.ms-Dcal {
+	BORDER-LEFT: #343434 1px solid; BORDER-COLLAPSE: collapse; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TABLE-LAYOUT: fixed; CURSOR: default; BORDER-RIGHT: #343434 1px solid
+}
+.ms-calDmidHour {
+	BORDER-BOTTOM-COLOR: #343434; BORDER-TOP-COLOR: #343434; HEIGHT: 20px; BORDER-RIGHT-COLOR: #343434; BORDER-LEFT-COLOR: #343434
+}
+.ms-calDmidHalfHour {
+	BORDER-BOTTOM-COLOR: #343434; BORDER-TOP-COLOR: #343434; HEIGHT: 20px; BORDER-RIGHT-COLOR: #343434; BORDER-LEFT-COLOR: #343434
+}
+.ms-calDmidQuarterHour {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; HEIGHT: 20px; BORDER-TOP: 0px; BORDER-RIGHT: 0px
+}
+.ms-calspacer {
+	BORDER-LEFT: #343434 1px solid; HEIGHT: 4px; BORDER-RIGHT: #343434 1px solid
+}
+.ms-CalDSpacer {
+	BORDER-LEFT: #343434 1px solid; HEIGHT: 4px; BORDER-RIGHT: #343434 1px solid
+}
+.ms-CalVSpacer {
+	BACKGROUND-COLOR: #343434; WIDTH: 0px
+}
+.ms-CalAllDay {
+	TEXT-ALIGN: center; WIDTH: 10%; HEIGHT: 12px; VERTICAL-ALIGN: top
+}
+.ms-firstCalHour {
+	WIDTH: 10%; HEIGHT: 12px; VERTICAL-ALIGN: top
+}
+.ms-calHour {
+	WIDTH: 10%; HEIGHT: 12px; VERTICAL-ALIGN: top; BORDER-TOP: #343434 1px solid
+}
+.ms-calHalfHour {
+	HEIGHT: 12px; VERTICAL-ALIGN: top; BORDER-TOP: #343434 1px solid
+}
+.ms-calQuarterHour {
+	HEIGHT: 12px; VERTICAL-ALIGN: top; BORDER-TOP: 0px
+}
+.ms-Dappt {
+	BORDER-BOTTOM: #343434 2px solid; TEXT-ALIGN: center; BORDER-LEFT: #343434 2px solid; BACKGROUND-COLOR: #797979; HEIGHT: 18px; COLOR: #ffffff; VERTICAL-ALIGN: middle; OVERFLOW: hidden; BORDER-TOP: #343434 2px solid; BORDER-RIGHT: #343434 2px solid
+}
+.ms-Vappt {
+	BORDER-BOTTOM: #131313 3px solid; TEXT-ALIGN: center; BORDER-LEFT: #131313 2px solid; BACKGROUND-COLOR: #404040; PADDING-LEFT: 3px; TEXT-OVERFLOW: ellipsis; PADDING-RIGHT: 3px; HEIGHT: 12px; COLOR: #ffffff; VERTICAL-ALIGN: middle; OVERFLOW: hidden; BORDER-TOP: #131313 1px solid; BORDER-RIGHT: #131313 2px solid
+}
+.ms-Vapptsingle A {
+	TEXT-OVERFLOW: ellipsis; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #b6b04d; OVERFLOW: hidden; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+.ms-Vappt A {
+	TEXT-OVERFLOW: ellipsis; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #b6b04d; OVERFLOW: hidden; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+.ms-Vappt A:link {
+	
+}
+.ms-Vappt A:hover {
+	COLOR: #ffffff; TEXT-DECORATION: underline
+}
+.ms-Vevt {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; TEXT-OVERFLOW: ellipsis; PADDING-RIGHT: 0px; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; HEIGHT: 12px; COLOR: #ffffff; VERTICAL-ALIGN: top; OVERFLOW: hidden; FONT-WEIGHT: normal; PADDING-TOP: 0px
+}
+.ms-Vevt A {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #ffffff; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+.ms-Vevt A:link {
+	
+}
+.ms-Vevt A:hover {
+	COLOR: #ffffff; TEXT-DECORATION: underline
+}
+.ms-Vevt A:visited {
+	COLOR: #dfd664
+}
+.ms-apptsingle {
+	BORDER-LEFT: #343434 1px solid; TEXT-OVERFLOW: ellipsis; HEIGHT: 18px; COLOR: #ffffff; VERTICAL-ALIGN: middle; OVERFLOW: hidden; BORDER-RIGHT: #343434 1px solid
+}
+.ms-Dapptsingle {
+	BORDER-LEFT: #494949 1px solid; HEIGHT: 18px; COLOR: #ffffff; VERTICAL-ALIGN: middle; OVERFLOW: hidden; BORDER-RIGHT: #494949 1px solid
+}
+.ms-Vapptsingle {
+	BORDER-BOTTOM: #494949 1px solid; TEXT-ALIGN: center; BORDER-LEFT: #494949 1px solid; BACKGROUND-COLOR: #404040; TEXT-OVERFLOW: ellipsis; COLOR: #ffffff; VERTICAL-ALIGN: middle; OVERFLOW: hidden; BORDER-TOP: #494949 1px solid; BORDER-RIGHT: #494949 1px solid
+}
+.ms-Vapptsingle A:link {
+	
+}
+.ms-Vapptsingle A:hover {
+	TEXT-DECORATION: underline
+}
+.ms-Vapptsingle A:visited {
+	
+}
+.ms-dpnextprev {
+	BORDER-BOTTOM: medium none; TEXT-ALIGN: center; BORDER-LEFT: medium none; BACKGROUND-COLOR: #363937; COLOR: #ffffff; BORDER-TOP: medium none; CURSOR: hand; FONT-WEIGHT: bold; BORDER-RIGHT: medium none
+}
+.ms-discussionseparator {
+	HEIGHT: 1px; COLOR: #343434
+}
+.ms-stylelabel {
+	FONT-FAMILY: verdana; COLOR: #b6b04d; FONT-SIZE: 8pt
+}
+.ms-stylebox {
+	BORDER-BOTTOM: #343434 1px solid; TEXT-ALIGN: left; BORDER-LEFT: #343434 1px solid; FONT-FAMILY: verdana; BORDER-TOP: #343434 1px solid; BORDER-RIGHT: #343434 1px solid
+}
+IMG.thumbnail {
+	BORDER-BOTTOM: #9c9a9c 3px solid; BORDER-LEFT: #9c9a9c 3px solid; BORDER-TOP: #9c9a9c 3px solid; BORDER-RIGHT: #9c9a9c 3px solid
+}
+TR.ms-imglibselectedrow {
+	BACKGROUND-COLOR: #757575
+}
+TABLE.ms-imglibtitletable {
+	BORDER-BOTTOM: #757575 0px solid; BORDER-LEFT: #757575 0px solid; BORDER-TOP: #757575 0px solid; BORDER-RIGHT: #757575 0px solid
+}
+.ms-imglibthumbnail {
+	BORDER-BOTTOM: #9c9a9c 0px solid; BORDER-LEFT: #9c9a9c 0px solid; BACKGROUND-COLOR: #757575; BORDER-TOP: #9c9a9c 0px solid; BORDER-RIGHT: #9c9a9c 0px solid
+}
+SPAN.thumbnail {
+	POSITION: relative; PADDING-BOTTOM: 16px; PADDING-LEFT: 10px; WIDTH: 5px; PADDING-RIGHT: 10px; PADDING-TOP: 16px
+}
+SPAN.userdata {
+	DISPLAY: none; BEHAVIOR: url(slat1011.css)
+}
+.ms-imglibmenuhead {
+	CURSOR: move
+}
+.ms-imglibmenu {
+	BACKGROUND-COLOR: #757575; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #b6b04d; CURSOR: hand
+}
+.ms-imglibmenutext {
+	COLOR: #b6b04d; CURSOR: move; FONT-WEIGHT: bold
+}
+.ms-imglibmenuarea {
+	BACKGROUND-COLOR: #757575
+}
+IMG.ms-imglibpreviewarea {
+	BORDER-BOTTOM: #757575 3px solid; BORDER-LEFT: #757575 3px solid; MARGIN-TOP: 3px; BORDER-TOP: #757575 3px solid; BORDER-RIGHT: #757575 3px solid
+}
+A.ms-imglibPreviewTitle {
+	WIDTH: 130px; TEXT-OVERFLOW: ellipsis; OVERFLOW: hidden
+}
+TABLE.ms-imglibPreviewTable {
+	DISPLAY: none
+}
+.UserShadedRegion {
+	BACKGROUND-COLOR: #111111; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif
+}
+.UserCaption {
+	BACKGROUND-COLOR: #111111; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif
+}
+.UserConfiguration {
+	BACKGROUND-COLOR: #111111; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif
+}
+.UserDottedLine {
+	BACKGROUND-IMAGE: url(https://baltibugle.co.uk/bugles/79-bbApril10/Liverpool_files/dot_slate.gif); BACKGROUND-COLOR: transparent; BACKGROUND-REPEAT: repeat-x; MARGIN-BOTTOM: 2px; HEIGHT: 1px; OVERFLOW: hidden
+}
+.UserButton {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #000000
+}
+.UserInput {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #000000
+}
+.UserSelect {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #000000
+}
+.UserNotification {
+	PADDING-BOTTOM: 4px; PADDING-LEFT: 4px; PADDING-RIGHT: 4px; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #727272; PADDING-TOP: 4px
+}
+.UserToolBarTextArea {
+	PADDING-BOTTOM: 5px; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; FONT-WEIGHT: normal
+}
+.UserToolBarTextArea A:link {
+	COLOR: #b6b04d; TEXT-DECORATION: none
+}
+.UserToolBarTextArea A:visited {
+	COLOR: #b6b04d; TEXT-DECORATION: none
+}
+.UserToolBarTextArea A:hover {
+	COLOR: #fec803; TEXT-DECORATION: underline
+}
+.UserToolbarDisabledLink {
+	PADDING-BOTTOM: 4px; PADDING-LEFT: 4px; PADDING-RIGHT: 4px; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #000000; PADDING-TOP: 4px
+}
+.UserToolbarImage {
+	BORDER-BOTTOM: medium none; TEXT-ALIGN: center; BORDER-LEFT: medium none; BACKGROUND-COLOR: #575757; BORDER-TOP: medium none; CURSOR: hand; BORDER-RIGHT: medium none
+}
+.UserToolBarImageArea {
+	PADDING-BOTTOM: 5px; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; FONT-WEIGHT: normal
+}
+.UserToolbarSelectedImage {
+	BORDER-BOTTOM: #000000 1px solid; TEXT-ALIGN: center; BORDER-LEFT: medium none; VERTICAL-ALIGN: top; BORDER-TOP: medium none; FONT-WEIGHT: bold; BORDER-RIGHT: medium none
+}
+.UserGenericHeader {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #ffffff; FONT-WEIGHT: bold
+}
+.UserGeneric {
+	PADDING-BOTTOM: 7px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; PADDING-TOP: 8px
+}
+.UserGenericText {
+	
+}
+.UserGenericBody {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 17px; PADDING-RIGHT: 0px; PADDING-TOP: 5px
+}
+.UserSectionTitle {
+	BORDER-BOTTOM: #9c9a9c 1px solid; PADDING-BOTTOM: 2px; WIDTH: 100%; MARGIN-BOTTOM: 5px; COLOR: #ffffff; FONT-WEIGHT: bold
+}
+.UserSectionHead {
+	PADDING-BOTTOM: 3px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; COLOR: #ffffff; PADDING-TOP: 0px
+}
+.UserSectionFooter {
+	COLOR: #ffffff; BORDER-TOP: #9c9a9c 1px solid
+}
+.UserSectionBody {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 7px; WIDTH: 100%; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.UserControlGroup {
+	PADDING-BOTTOM: 10px; PADDING-TOP: 2px
+}
+.UserFooter {
+	PADDING-BOTTOM: 7px; PADDING-LEFT: 7px; WIDTH: 100%; PADDING-RIGHT: 7px; PADDING-TOP: 10px
+}
+.UserCommandArea {
+	PADDING-TOP: 7px
+}
+.UserToolbar {
+	BACKGROUND-IMAGE: url(https://baltibugle.co.uk/bugles/79-bbApril10/Liverpool_files/toolgrad_slate.gif); BORDER-BOTTOM: #575757 1px solid; BORDER-LEFT: #575757 1px solid; BACKGROUND-COLOR: transparent; BACKGROUND-REPEAT: repeat-x; BORDER-TOP: #575757 1px solid; BORDER-RIGHT: #575757 1px solid
+}
+.UserCellSelected {
+	BORDER-BOTTOM: #859928 1px solid; BORDER-LEFT: #859928 1px solid; PADDING-BOTTOM: 2px; BACKGROUND-COLOR: #131313; PADDING-LEFT: 4px; PADDING-RIGHT: 4px; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #ffffff; BORDER-TOP: #859928 1px solid; BORDER-RIGHT: #859928 1px solid; PADDING-TOP: 1px
+}
+.UserCell {
+	PADDING-BOTTOM: 3px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #ffffff; PADDING-TOP: 2px
+}
+.UserGenericBulletItem {
+	PADDING-BOTTOM: 2px
+}
+.ms-ToolPaneFrame {
+	PADDING-BOTTOM: 0px; BACKGROUND-COLOR: #111111; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.ms-ToolPaneBody {
+	PADDING-BOTTOM: 2px; PADDING-TOP: 2px
+}
+.ms-ToolPaneHeader {
+	BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none; BACKGROUND-COLOR: #9c9a9c; BORDER-TOP-STYLE: none; BORDER-LEFT-STYLE: none
+}
+.ms-ToolPaneBorder {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: #404340 1px solid; BORDER-TOP: medium none; BORDER-RIGHT: #404340 1px solid
+}
+.ms-ToolPaneClose {
+	BACKGROUND-COLOR: #9c9a9c
+}
+.ms-ToolPaneTitle {
+	PADDING-BOTTOM: 3px; BACKGROUND-COLOR: #9c9a9c; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #ffffff; FONT-WEIGHT: bold; PADDING-TOP: 3px
+}
+.ms-ToolPaneFooter {
+	PADDING-BOTTOM: 5px; BACKGROUND-COLOR: #9c9a9c; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #ffffff; PADDING-TOP: 5px
+}
+.ms-ToolPaneError {
+	PADDING-BOTTOM: 2px; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #db6751; PADDING-TOP: 2px
+}
+.ms-ToolPaneInfo {
+	PADDING-BOTTOM: 0px; BACKGROUND-COLOR: #404340; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #ffffff; PADDING-TOP: 5px
+}
+.ms-ToolPartSpacing {
+	PADDING-TOP: 8px
+}
+.ms-TPBorder {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+.ms-TPHeader {
+	BACKGROUND-COLOR: #343434
+}
+.ms-TPTitle {
+	PADDING-BOTTOM: 2px; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #ffffff; FONT-WEIGHT: bold; PADDING-TOP: 2px
+}
+.ms-TPBody {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #ffffff
+}
+.ms-TPBody A:link {
+	COLOR: #b6b04d; CURSOR: hand; TEXT-DECORATION: none
+}
+.ms-TPBody A:visited {
+	COLOR: #b6b04d; CURSOR: hand; TEXT-DECORATION: none
+}
+.ms-TPBody A:hover {
+	COLOR: #b6b04d; CURSOR: hand; TEXT-DECORATION: none
+}
+.ms-TPCommands {
+	
+}
+.ms-TPInput {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #000000
+}
+.ms-CategoryTitle {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.ms-PropGridBuilderButton {
+	BORDER-BOTTOM: #a3a3a3 1px solid; BORDER-LEFT: #a3a3a3 1px solid; BACKGROUND-COLOR: #9c9a9c; WIDTH: 16px; DISPLAY: none; BORDER-TOP: #a3a3a3 1px solid; BORDER-RIGHT: #a3a3a3 1px solid
+}
+.ms-SPZone {
+	BORDER-BOTTOM: #949494 1px solid; BORDER-LEFT: #949494 1px solid; PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; BORDER-TOP: #949494 1px solid; BORDER-RIGHT: #949494 1px solid; PADDING-TOP: 5px
+}
+.ms-SPZoneSelected {
+	BORDER-BOTTOM: #ffffff 1px solid; BORDER-LEFT: #ffffff 1px solid; PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; BORDER-TOP: #ffffff 1px solid; BORDER-RIGHT: #ffffff 1px solid; PADDING-TOP: 5px
+}
+.ms-SPZoneIBar {
+	BORDER-BOTTOM: #ffffff 3px solid; BORDER-LEFT: #ffffff 3px solid; BORDER-TOP: #ffffff 3px solid; BORDER-RIGHT: #ffffff 3px solid
+}
+.ms-SPZoneLabel {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #949494; PADDING-TOP: 0px
+}
+.ms-SPError {
+	BORDER-BOTTOM: #404340 2px solid; PADDING-BOTTOM: 2px; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #db6751; PADDING-TOP: 2px
+}
+.ms-SPZoneCaption {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #949494
+}
+.ms-WPDesign {
+	BACKGROUND-COLOR: #404340
+}
+.ms-WPMenu {
+	BACKGROUND-COLOR: #404340
+}
+.ms-WPTitle {
+	PADDING-BOTTOM: 2px; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #ffffff; FONT-WEIGHT: bold; PADDING-TOP: 2px
+}
+.ms-WPTitle A:link {
+	COLOR: #ffffff; CURSOR: hand; TEXT-DECORATION: none
+}
+.ms-WPTitle A:visited {
+	COLOR: #ffffff; CURSOR: hand; TEXT-DECORATION: none
+}
+.ms-WPTitle A:hover {
+	COLOR: #fec803; CURSOR: hand; TEXT-DECORATION: underline
+}
+.ms-WPSelected {
+	BORDER-BOTTOM: #7294af 3px dashed; BORDER-LEFT: #7294af 3px dashed; BORDER-TOP: #7294af 3px dashed; BORDER-RIGHT: #7294af 3px dashed
+}
+.ms-WPBody {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif
+}
+.ms-WPBody TABLE {
+	
+}
+.ms-TPBody TABLE {
+	
+}
+.ms-WPBody A:link {
+	COLOR: #b6b04d; TEXT-DECORATION: none
+}
+.ms-WPBody A:visited {
+	COLOR: #b6b04d; TEXT-DECORATION: none
+}
+.ms-WPBody A:hover {
+	COLOR: #fec803; TEXT-DECORATION: underline
+}
+.ms-WPBody TH {
+	FONT-WEIGHT: bold
+}
+.ms-TPBody TH {
+	FONT-WEIGHT: bold
+}
+.ms-WPBody TD {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif
+}
+.ms-WPBody H1 {
+	FONT-WEIGHT: bold
+}
+.ms-TPBody H1 {
+	FONT-WEIGHT: bold
+}
+.ms-WPBody H2 {
+	FONT-WEIGHT: bold
+}
+.ms-TPBody H2 {
+	FONT-WEIGHT: bold
+}
+.ms-WPBody H3 {
+	FONT-WEIGHT: bold
+}
+.ms-TPBody H3 {
+	FONT-WEIGHT: bold
+}
+.ms-WPBody H4 {
+	FONT-WEIGHT: bold
+}
+.ms-TPBody H4 {
+	FONT-WEIGHT: bold
+}
+.ms-WPBody H5 {
+	FONT-WEIGHT: bold
+}
+.ms-TPBody H5 {
+	FONT-WEIGHT: bold
+}
+.ms-WPBody H6 {
+	FONT-WEIGHT: bold
+}
+.ms-TPBody H6 {
+	FONT-WEIGHT: bold
+}
+.ms-WPBorder {
+	BORDER-BOTTOM: #494949 1px solid; BORDER-LEFT: #494949 1px solid; BORDER-TOP-STYLE: none; BORDER-RIGHT: #494949 1px solid
+}
+.ms-HoverCellActive {
+	BORDER-BOTTOM: #b6b04d 1px solid; BORDER-LEFT: #b6b04d 1px solid; BACKGROUND-COLOR: #9c9a9c; BORDER-TOP: #b6b04d 1px solid; BORDER-RIGHT: #b6b04d 1px solid
+}
+.ms-HoverCellActiveDark {
+	BORDER-BOTTOM: #343434 1px solid; BORDER-LEFT: #343434 1px solid; BACKGROUND-COLOR: #404340; BORDER-TOP: #343434 1px solid; BORDER-RIGHT: #343434 1px solid
+}
+.ms-SPLink {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #b6b04d
+}
+.ms-SPLink A:link {
+	COLOR: #b6b04d; TEXT-DECORATION: none
+}
+.ms-SPLink A:visited {
+	COLOR: #b6b04d; TEXT-DECORATION: none
+}
+.ms-SPButton {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif
+}
+.ms-PartSpacingVertical {
+	PADDING-TOP: 10px
+}
+.ms-PartSpacingHorizontal {
+	PADDING-TOP: 10px
+}
+.ms-WPHeader {
+	BACKGROUND-IMAGE: url(https://baltibugle.co.uk/bugles/79-bbApril10/Liverpool_files/partgrad.gif); BACKGROUND-COLOR: #4b4b4b; BACKGROUND-REPEAT: repeat-x
+}
+.ms-PageHeaderDate {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #ffffff
+}
+.ms-PageHeaderGreeting {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #ffffff
+}
+.ms-rtApplyBackground {
+	BORDER-BOTTOM: #a3a3a3 0.02cm solid; BORDER-LEFT: #a3a3a3 0.02cm solid; BACKGROUND-COLOR: #797979; BORDER-TOP: #a3a3a3 0.02cm solid; BORDER-RIGHT: #a3a3a3 0.02cm solid
+}
+.ms-rtRemoveBackground {
+	BORDER-BOTTOM: #131313 0.02cm solid; BORDER-LEFT: #131313 0.02cm solid; BACKGROUND-COLOR: transparent; BORDER-TOP: #131313 0.02cm solid; BORDER-RIGHT: #131313 0.02cm solid
+}
+.ms-rtToolbarDefaultStyle {
+	FONT: 8pt Verdana,Arial,Helvetica,sans-serif
+}
+.ms-subsmanageheader {
+	BACKGROUND-COLOR: #111111; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.ms-subsmanagecell {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; HEIGHT: 18px; COLOR: #ffffff; VERTICAL-ALIGN: top
+}
+.ms-ConnError {
+	COLOR: #db6751
+}
+.ms-storMeUsed {
+	BACKGROUND-COLOR: #cecc34
+}
+.ms-storMeFree {
+	BACKGROUND-COLOR: #81932d
+}
+.ms-storMeEstimated {
+	BACKGROUND-COLOR: #fec803
+}
+.ms-underline {
+	BORDER-BOTTOM: #757575 1px solid; PADDING-BOTTOM: 4px; PADDING-LEFT: 4px; PADDING-RIGHT: 4px; VERTICAL-ALIGN: top; PADDING-TOP: 2px
+}
+.ms-underlineback {
+	BORDER-BOTTOM: #757575 1px solid; PADDING-BOTTOM: 4px; BACKGROUND-COLOR: #111111; PADDING-LEFT: 4px; PADDING-RIGHT: 4px; VERTICAL-ALIGN: top; PADDING-TOP: 2px
+}
+.ms-smallheader {
+	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #ffffff; FONT-WEIGHT: bold
+}
+.ms-smallsectionline {
+	BORDER-BOTTOM: #757575 1px solid; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 2px
+}
+.ms-tabselected {
+	BORDER-BOTTOM: #343434 2px solid; BORDER-LEFT: #343434 2px solid; PADDING-BOTTOM: 3px; BACKGROUND-COLOR: #343434; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #ffffff; BORDER-TOP: #343434 2px solid; FONT-WEIGHT: bold; BORDER-RIGHT: #343434 2px solid; PADDING-TOP: 3px
+}
+.ms-tabinactive {
+	BORDER-BOTTOM: #4b4b4b 2px solid; BORDER-LEFT: #4b4b4b 2px solid; PADDING-BOTTOM: 3px; BACKGROUND-COLOR: #4b4b4b; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #b6b04d; BORDER-TOP: #4b4b4b 2px solid; BORDER-RIGHT: #4b4b4b 2px solid; PADDING-TOP: 3px
+}
+.ms-tabinactive A:link {
+	COLOR: #b6b04d; TEXT-DECORATION: none
+}
+.ms-tabinactive A:hover {
+	COLOR: #b6b04d; TEXT-DECORATION: none
+}
+.ms-tabinactive A:visited {
+	COLOR: #b6b04d; TEXT-DECORATION: none
+}
+.ms-surveyVBarT {
+	TEXT-ALIGN: center; FONT-FAMILY: verdana; COLOR: #969696; FONT-SIZE: 7pt
+}
+.ms-surveyGVVBar {
+	BORDER-BOTTOM: #a3a3a3 0px solid; BACKGROUND-COLOR: #131313; WIDTH: 9px; BORDER-TOP: #131313 0px solid
+}
+.ms-surveyGVVBarS {
+	WIDTH: 20px
+}
+.ms-uploadborder {
+	BORDER-BOTTOM: #000000 1px solid; BORDER-LEFT: #000000 1px solid; BORDER-TOP: #000000 1px solid; BORDER-RIGHT: #000000 1px solid
+}
+.ms-uploadcontrol {
+	BACKGROUND-COLOR: #797979
+}
+.ms-highlight {
+	BACKGROUND-COLOR: #797979
+}
+.UserBackground {
+	BACKGROUND-COLOR: #131313
+}
+.ms-MWSSelectedInstance {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.ms-MWSInstantiated A:link {
+	COLOR: #b6b04d; TEXT-DECORATION: none
+}
+.ms-MWSInstantiated A:visited {
+	COLOR: #b6b04d; TEXT-DECORATION: none
+}
+.ms-MWSInstantiated A:hover {
+	COLOR: #fec803; TEXT-DECORATION: underline
+}
+.ms-MWSUninstantiated A:link {
+	COLOR: #b6b04d; TEXT-DECORATION: none
+}
+.ms-MWSUninstantiated A:visited {
+	COLOR: #b6b04d; TEXT-DECORATION: none
+}
+.ms-MWSUninstantiated A:hover {
+	COLOR: #b6b04d; TEXT-DECORATION: underline
+}
+.ms-ToolStrip {
+	BORDER-BOTTOM: #949494 1px solid; BORDER-LEFT: #949494 1px solid; BACKGROUND-COLOR: #4b4b4b; COLOR: #ffffff; BORDER-TOP: #949494 1px solid; BORDER-RIGHT: #949494 1px solid
+}

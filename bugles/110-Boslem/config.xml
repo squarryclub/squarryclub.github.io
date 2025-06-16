@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<audioplay>   
+
+<config>	
+
+<!-- example multiple players configuration (set unique id for each player)-->	
+
+<player playerid="$playerid$">	    
+
+<!-- set player's background color -->    
+
+<backgroundColor>0xFF0000</backgroundColor>	    
+
+<!-- music file -->	    
+
+<musicfile>scream1.mp3</musicfile>	    
+
+<!-- how many times music will be played (0 - unlimited) -->	    
+
+<repeatTimes>1</repeatTimes>	    
+
+<!-- should music starts automatically -->	    
+
+<autostart>yes</autostart>	    	    
+
+<!-- button directory -->	    
+
+<buttondir>buttons/classic_small</buttondir>	    
+
+<!-- use player in play/pause or play/stop mode (values: playpause (default), playstop)-->	    
+<mode>playstop</mode>	    
+
+<!-- will player stop/pause after clicking play on other player ? (default 'yes') -->	   
+
+<listenStop>no</listenStop>	    	    
+
+<!-- will player send stop/pause command to other players after play button click ? (default 'yes') -->	    
+
+<sendStop>no</sendStop>	
+
+<!-- volume 0-100 -->
+	    <mastervol>100</mastervol>	    
+
+<!-- images could be customized by changing images in button directory (30x30 pixels) -->	
+</player>		
+
+<!-- For multiple instances of AudioPlay add separate player tags with unique playerid attribute then add '?playerid=X' to every AudioPlay url in object/embed tags. For example: 'audioplay.swf?playerid=2'-->		
+
+<!--<player playerid="2">	    
+
+<backgroundColor>0x000000</backgroundColor>
+
+<musicfile>music2.mp3</musicfile>	    
+
+<repeatTimes>1</repeatTimes>	    
+
+<autostart>no</autostart>	    
+
+<buttondir>buttons/negative</buttondir>	    
+
+<mode>playpause</mode>    
+
+<listenStop>yes</listenStop>	    
+
+<sendStop>yes</sendStop>	
+
+</player>-->	   
+
+</config>
+
+</audioplay>
